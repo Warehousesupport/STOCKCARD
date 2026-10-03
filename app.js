@@ -14,24 +14,26 @@ const materialList = document.getElementById("materialList");
 async function loadStockCard() {
 
     if (!binParam) {
-        showError();
+        showError("BIN tidak ditemukan.");
         return;
     }
 
     try {
 
-        const response = await fetch("data.json");
+        const response = await fetch(
+            "data.json?t=" + new Date().getTime()
+        );
 
         if (!response.ok) {
-            throw new Error("Failed to load data");
+            throw new Error("data.json tidak dapat dibaca");
         }
 
         const data = await response.json();
 
-        const binData = data[binParam];
+        const binData = data.bins[binParam];
 
         if (!binData) {
-            showError();
+            showError("BIN " + binParam + " tidak ditemukan.");
             return;
         }
 
@@ -48,11 +50,11 @@ async function loadStockCard() {
 
             row.innerHTML = `
                 <td>${index + 1}</td>
-                <td>${item.category}</td>
-                <td>${item.material}</td>
-                <td>${item.description}</td>
+                <td>${escapeHTML(item.category)}</td>
+                <td>${escapeHTML(item.material)}</td>
+                <td>${escapeHTML(item.description)}</td>
                 <td>${item.qty}</td>
-                <td>${item.uom}</td>
+                <td>${escapeHTML(item.uom)}</td>
             `;
 
             materialList.appendChild(row);
@@ -60,23 +62,39 @@ async function loadStockCard() {
         });
 
         loading.style.display = "none";
+        error.style.display = "none";
         stockCard.style.display = "block";
 
     } catch (err) {
 
         console.error(err);
 
-        showError();
+        showError("Gagal membaca data Stock Card.");
 
     }
+
 }
 
 
-function showError() {
+function showError(message) {
 
     loading.style.display = "none";
     stockCard.style.display = "none";
+
+    error.textContent = message;
     error.style.display = "block";
+
+}
+
+
+function escapeHTML(value) {
+
+    return String(value ?? "")
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#039;");
 
 }
 
