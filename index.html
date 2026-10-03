@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Stock Card</title>
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="header">
+        <div>
+            <h1>STOCK CARD</h1>
+            <p>Warehouse Material Information</p>
+        </div>
+    </div>
+
+    <div id="loading" class="loading">
+        Loading...
+    </div>
+
+    <div id="stockCard" style="display:none;">
+
+        <div class="info">
+            <div>
+                <span>BIN</span>
+                <strong id="bin"></strong>
+            </div>
+
+            <div>
+                <span>LAST UPDATE</span>
+                <strong id="lastUpdate"></strong>
+            </div>
+        </div>
+
+        <div class="table-container">
+
+            <table>
+
+                <thead>
+                    <tr>
+                        <th>No</th>
+                        <th>Category</th>
+                        <th>Material</th>
+                        <th>Description</th>
+                        <th>Qty</th>
+                        <th>UOM</th>
+                    </tr>
+                </thead>
+
+                <tbody id="materialList"></tbody>
+
+            </table>
+
+        </div>
+
+    </div>
+
+    <div id="error" class="error" style="display:none;">
+        BIN tidak ditemukan.
+    </div>
+
+</div>
+
+<script src="app.js"></script>
+
+</body>
+</html>
