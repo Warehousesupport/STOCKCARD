@@ -1,0 +1,34 @@
+{
+    "5101001001": {
+        "lastUpdate": "03OCT2026",
+        "materials": [
+            {
+                "category": "Electrical",
+                "material": "10000001",
+                "description": "TEST MATERIAL",
+                "qty": 10,
+                "uom": "EA"
+            },
+            {
+                "category": "Mechanical",
+                "material": "10000002",
+                "description": "TEST MATERIAL 2",
+                "qty": 25,
+                "uom": "EA"
+            }
+        ]
+    },
+
+    "5101001002": {
+        "lastUpdate": "03OCT2026",
+        "materials": [
+            {
+                "category": "Mechanical",
+                "material": "10000003",
+                "description": "TEST MATERIAL 3",
+                "qty": 5,
+                "uom": "EA"
+            }
+        ]
+    }
+}
