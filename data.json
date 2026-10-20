@@ -1,13 +1,13 @@
 {
-  "generated": "03Oct2026",
+  "generated": "20Oct2026",
   "bins": {
     "5118001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4501076084_10",
-          "description": "1 - ANSI FLANGE SLIP ON 300 LB",
+          "description": "1\" - ANSI FLANGE SLIP ON 300 LB",
           "qty": 2,
           "uom": "EA",
           "wbs": "C700122.90.10"
@@ -15,7 +15,7 @@
         {
           "category": "PO",
           "material": "4501076084_20",
-          "description": "1 - ANSI FLANGE SLIP ON 300 LB",
+          "description": "1\" - ANSI FLANGE SLIP ON 300 LB",
           "qty": 2,
           "uom": "EA",
           "wbs": "C700122.90.10"
@@ -71,7 +71,7 @@
         {
           "category": "PO",
           "material": "4504160529_60",
-          "description": "1/2‚Äù 13 X 1‚Äù Hex Head Machine Bolt",
+          "description": "1/2î 13 X 1î Hex Head Machine Bolt",
           "qty": 100,
           "uom": "EA",
           "wbs": "C700122.90.10"
@@ -87,7 +87,7 @@
         {
           "category": "PO",
           "material": "4506165957_10",
-          "description": "3/4 DIA. ANCHOR BOLT HILTI  x 170 MM LG",
+          "description": "3/4\" DIA. ANCHOR BOLT HILTI  x 170 MM LG",
           "qty": 70,
           "uom": "EA",
           "wbs": "C700122.90.10"
@@ -223,7 +223,7 @@
         {
           "category": "PO",
           "material": "4509941871_80",
-          "description": "1 EQUAL TEE NPT, MALLEABLE IRON, BLACK,",
+          "description": "1\" EQUAL TEE NPT, MALLEABLE IRON, BLACK,",
           "qty": 36,
           "uom": "EA",
           "wbs": "C302723.10.10"
@@ -231,7 +231,7 @@
         {
           "category": "PO",
           "material": "4510001186_10",
-          "description": "S2S PLID WRAP (Grey) 4x 10 Meters ROL",
+          "description": "S2S PLID WRAP (Grey) 4\"x 10 Meters ROL",
           "qty": 3,
           "uom": "EA",
           "wbs": "C701724.10.10"
@@ -263,7 +263,7 @@
       ]
     },
     "5106001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -532,7 +532,7 @@
         {
           "category": "PO",
           "material": "4507877998_20",
-          "description": "ANCHOR RVC (AN30B) 253MA, A=195MM, √ò8",
+          "description": "ANCHOR RVC (AN30B) 253MA, A=195MM, ÿ8",
           "qty": 1800,
           "uom": "EA",
           "wbs": "C700122.90.10"
@@ -564,41 +564,201 @@
       ]
     },
     "5107008041": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4501720208_10",
-          "description": "FLAT WASHER 0.56 ID X 2 OD X 0.14 THK;",
+          "description": "FLAT WASHER 0.56 ID X 2\" OD X 0.14\" THK;",
           "qty": 112,
           "uom": "EA",
           "wbs": "C700122.90.10"
         }
       ]
     },
-    "5001002041": {
-      "lastUpdate": "03Oct2026",
+    "5146001001": {
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
-          "material": "4503826182_10",
-          "description": "Fixture NNY20512, Complete with   Exposu",
-          "qty": 36,
-          "uom": "EA",
-          "wbs": "C500217.10.10.1000"
+          "material": "4502076371_10",
+          "description": "UNIVERSAL PROFILE BENDING MACHINE 309HVA",
+          "qty": 1,
+          "uom": "UNT",
+          "wbs": "C700122.40.91"
         },
         {
           "category": "PO",
-          "material": "4503826182_20",
-          "description": "Driver NNY28115 LE9,  Power Voltage A100",
-          "qty": 36,
+          "material": "4509173399_10",
+          "description": "CONCENTRIC REDUCER 16\"x14\" STD. WT., BWE",
+          "qty": 2,
           "uom": "EA",
-          "wbs": "C500217.10.10.1000"
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509173399_20",
+          "description": "ECCENTRIC REDUCER 20\"x14\" STD. WT., BWE,",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509232375_10",
+          "description": "GASKET 16\" ANSI B16.5 CLASS 150 FULL",
+          "qty": 12,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509232375_20",
+          "description": "GASKET 14\" ANSI B16.5 CLASS 150 FULL FAC",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509232375_30",
+          "description": "GASKET 12\" ANSI B16.5 CLASS 150 FULL",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509232375_40",
+          "description": "GASKET 6\" ANSI B16.5 CLASS 150 FULL FACE",
+          "qty": 12,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509232375_50",
+          "description": "GASKET 3\" ANSI B16.5 CLASS 150 FULL FACE",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509232375_60",
+          "description": "POLYKEN 1027 PRIMER, 1 GALLON TIN",
+          "qty": 13,
+          "uom": "CAN",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509264485_20",
+          "description": "4\" ELBOW 90 DEG, LR, SCH40/STD, SMLS, SS",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4509264485_30",
+          "description": "4\" CAP, SCH40/STD, SMLS, SS304, ANSI/ASM",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4509264485_40",
+          "description": "1/4\" PIPE FULL COUPLING, STD, FNPT, 1/2",
+          "qty": 600,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4509264485_50",
+          "description": "8\" x 4\" TEE RED:PIPE;  BUTT WELD; STD; C",
+          "qty": 12,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4509264485_60",
+          "description": "8\" X 4\" REDUCER:PIPE; CONCENTRIC;",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4511406237_10",
+          "description": "ZKTeco Tripod Turnstile Gate",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "G801723.00.01"
+        },
+        {
+          "category": "PO",
+          "material": "4511406237_20",
+          "description": "Gallagher Controller 6000 (C300100)",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "G801723.00.01"
+        },
+        {
+          "category": "PO",
+          "material": "4511406237_30",
+          "description": "Panasonic LC-R127R2NA 12V 7.2Ah Recharg",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "G801723.00.01"
+        },
+        {
+          "category": "PO",
+          "material": "4512231387_10",
+          "description": "Automatic Transfer Switch 1 phase",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C600224.10.50"
+        },
+        {
+          "category": "PO",
+          "material": "4512231387_20",
+          "description": "Battery Charger for battery Genset",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C600224.10.50"
+        },
+        {
+          "category": "PO",
+          "material": "4512559454_10",
+          "description": "5496730; RUBBER",
+          "qty": 30,
+          "uom": "M",
+          "wbs": "Excess Material"
+        },
+        {
+          "category": "PO",
+          "material": "4512559454_20",
+          "description": "5496630; RUBBER",
+          "qty": 15,
+          "uom": "M",
+          "wbs": "Excess Material"
+        },
+        {
+          "category": "N/A",
+          "material": "15076651",
+          "description": "4507565735_10_ACTUATOR;220V; 50HZ; 4-20MA; POS N FEED",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "X888888"
         }
       ]
     },
-    "5154001001": {
-      "lastUpdate": "03Oct2026",
+    "5148001001": {
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -609,110 +769,142 @@
           "wbs": "C700122.40.91"
         },
         {
-          "category": "PO",
-          "material": "4504623002_10",
-          "description": "STANDARD SMOOTH STRIP CURTAINS",
+          "category": "MN",
+          "material": "15080509",
+          "description": "ROPE, WIRE;6 X 19 FC CORE; 3/8IN DIA;",
+          "qty": 985,
+          "uom": "FT",
+          "wbs": "C101225.10.12"
+        },
+        {
+          "category": "MN",
+          "material": "15086669",
+          "description": "TEE, PIPE;6IN; BUTT WELD; STD; CARBON",
           "qty": 6,
-          "uom": "ROU",
-          "wbs": "C500217.10.10.1000"
-        },
-        {
-          "category": "PO",
-          "material": "4504623002_20",
-          "description": "STANDARD SMOOTH STRIP CURTAINS",
-          "qty": 1,
-          "uom": "ROU",
-          "wbs": "C500217.10.10.1000"
-        },
-        {
-          "category": "PO",
-          "material": "4505518443_10",
-          "description": "Vigilant LED High Bay (Vendor: Dialight)",
-          "qty": 39,
           "uom": "EA",
-          "wbs": "C700122.40.91"
+          "wbs": "C300512.01.02.0007"
         },
         {
-          "category": "PO",
-          "material": "4505518443_20",
-          "description": "Bracket Powder-coated aluminium swivel",
-          "qty": 39,
+          "category": "N/A",
+          "material": "15086635",
+          "description": "REDUCER, PIPE;CONCENTRIC; BUTT WELD;",
+          "qty": 7,
           "uom": "EA",
-          "wbs": "C700122.40.91"
+          "wbs": "X888888"
         },
         {
-          "category": "PO",
-          "material": "4509200105_10",
-          "description": "GATE VALVE, 16, C.I. A126, O.S.&Y,",
+          "category": "N/A",
+          "material": "15086670",
+          "description": "TEE, PIPE;8IN; EQUAL; BUTT WELD; STD;",
           "qty": 2,
           "uom": "EA",
-          "wbs": "C300415.01.02.0001"
+          "wbs": "SIDB300415.01.02.0001"
         },
         {
-          "category": "PO",
-          "material": "4509200105_30",
-          "description": "GATE VALVE, 14, C.I. A126, O.S.&Y,",
+          "category": "N/A",
+          "material": "4505814775_10",
+          "description": "BLACKMER PUMPS CRL 2",
+          "qty": 2,
+          "uom": "UNT",
+          "wbs": "SIDB202119.10.10.2000"
+        },
+        {
+          "category": "N/A",
+          "material": "4505094793_10",
+          "description": "GATE VALVE, 16IN",
           "qty": 3,
           "uom": "EA",
-          "wbs": "C300415.01.02.0001"
+          "wbs": "SIDB300415.01.02.0001"
         },
         {
-          "category": "PO",
-          "material": "4509436677_10",
-          "description": "Angle 90 degree Connector Compression",
-          "qty": 24,
+          "category": "N/A",
+          "material": "4503135260_10",
+          "description": "24 kV 630A Load Break Switch ELINA",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "SIDB101315.07.01.0001"
+        },
+        {
+          "category": "N/A",
+          "material": "4510051364_30",
+          "description": "HALF HANGER ASSEMBLY (TYPE A)",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "C203620.10.10.1000"
+        },
+        {
+          "category": "N/A",
+          "material": "4510051364_40",
+          "description": "QUARTER HANGER (TYPE B)",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "C203620.10.10.1000"
+        },
+        {
+          "category": "N/A",
+          "material": "4503033849_70",
+          "description": "SKF SAFD 22515HC, 2 7/16 IN Dia Roller B",
+          "qty": 2,
+          "uom": "CRT",
+          "wbs": "SIDB301315.10.40"
+        },
+        {
+          "category": "N/A",
+          "material": "4503057778_10",
+          "description": "UPS with Battery as below technical",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "SIDB005800.03.06"
+        },
+        {
+          "category": "N/A",
+          "material": "4503876548_20",
+          "description": "DAMPER ACTUATOR; ELECTRIC ACTUATED; 200",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "SIDB300515.10"
+        },
+        {
+          "category": "N/A",
+          "material": "4508889587_10",
+          "description": "MN 15098952",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "N/A",
+          "material": "4501935409_10",
+          "description": "V Resin Cable Joints- Straight, CM0",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "SIDB004100.20.20.0001"
+        },
+        {
+          "category": "N/A",
+          "material": "4503139178_10",
+          "description": "Mine Dewatering Pump, Electrical Motor D",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "SIDB101315.07.02.0001"
+        },
+        {
+          "category": "N/A",
+          "material": "15066006",
+          "description": "ACCELERATOR;ASSEMBLY",
+          "qty": 1,
           "uom": "EA",
-          "wbs": "C300722.10.10"
-        },
-        {
-          "category": "PO",
-          "material": "4509768133_10",
-          "description": "STUB FLANGE, NOMINAL SIZE 3 INCH (90 MM",
-          "qty": 30,
-          "uom": "EA",
-          "wbs": "C100121.10.30"
-        },
-        {
-          "category": "PO",
-          "material": "4512491536_10",
-          "description": "LED Floodlight, 220 VAC, Lumens 15000,",
-          "qty": 25,
-          "uom": "EA",
-          "wbs": "C300520.10.10.1000"
-        },
-        {
-          "category": "PO",
-          "material": "4512753823_20",
-          "description": "BPA-4BC2-6NNN-VGN",
-          "qty": 25,
-          "uom": "EA",
-          "wbs": "C700122.20.12"
-        },
-        {
-          "category": "MN",
-          "material": "15111699",
-          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
-          "qty": 150,
-          "uom": "M",
-          "wbs": "C300520.10.10.1000"
-        },
-        {
-          "category": "MN",
-          "material": "15116438",
-          "description": "ABSORBENT MATERIAL, OIL AND",
-          "qty": 90,
-          "uom": "BAG",
-          "wbs": "X501121.10.10"
+          "wbs": "X888888"
         }
       ]
     },
     "5158001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4504385131_20",
-          "description": "STANDARD ADAPTER FOR 12 GATE VALVE FOR",
+          "description": "STANDARD ADAPTER FOR 12\" GATE VALVE FOR",
           "qty": 1,
           "uom": "EA",
           "wbs": "C300415.01.03.0001"
@@ -921,7 +1113,7 @@
           "category": "PO",
           "material": "4511617427_10",
           "description": "Oil-immersed Distribution Transformer",
-          "qty": 0.2,
+          "qty": 0.1,
           "uom": "JG",
           "wbs": "C200320.10.10.3000"
         },
@@ -1017,14 +1209,6 @@
           "category": "MN",
           "material": "15111684",
           "description": "RESISTANCE WIRE;1 CORE; 7/2.75MM2; HARD",
-          "qty": 80,
-          "uom": "M",
-          "wbs": "C400620.30.70"
-        },
-        {
-          "category": "MN",
-          "material": "15111684",
-          "description": "RESISTANCE WIRE;1 CORE; 7/2.75MM2; HARD",
           "qty": 20,
           "uom": "M",
           "wbs": "C400620.30.60"
@@ -1039,6 +1223,14 @@
         },
         {
           "category": "MN",
+          "material": "15111684",
+          "description": "RESISTANCE WIRE;1 CORE; 7/2.75MM2; HARD",
+          "qty": 80,
+          "uom": "M",
+          "wbs": "C400620.30.70"
+        },
+        {
+          "category": "MN",
           "material": "15111685",
           "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
           "qty": 250,
@@ -1048,7 +1240,7 @@
       ]
     },
     "5112001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -1244,13 +1436,162 @@
         }
       ]
     },
+    "5154001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4504623002_10",
+          "description": "STANDARD SMOOTH STRIP CURTAINS",
+          "qty": 6,
+          "uom": "ROU",
+          "wbs": "C500217.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4505518443_10",
+          "description": "Vigilant LED High Bay (Vendor: Dialight)",
+          "qty": 27,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4505518443_20",
+          "description": "Bracket Powder-coated aluminium swivel",
+          "qty": 39,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4508667254_10",
+          "description": "Thyristor Controlled Industrial",
+          "qty": 1,
+          "uom": "LOT",
+          "wbs": "C201621.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4508667254_20",
+          "description": "Battery Bank",
+          "qty": 1,
+          "uom": "LOT",
+          "wbs": "C201621.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4509200105_10",
+          "description": "GATE VALVE, 16\", C.I. A126, O.S.&Y,",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509200105_30",
+          "description": "GATE VALVE, 14\", C.I. A126, O.S.&Y,",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4509436677_10",
+          "description": "Angle 90 degree Connector Compression",
+          "qty": 24,
+          "uom": "EA",
+          "wbs": "C300722.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4509768133_40",
+          "description": "STUB FLANGE, NOMINAL SIZE 12 INCH (315 M",
+          "qty": 18,
+          "uom": "EA",
+          "wbs": "C100121.10.30"
+        },
+        {
+          "category": "PO",
+          "material": "4509768133_50",
+          "description": "TEE REDUCER; NOMINAL SIZE 12 INCH (315 M",
+          "qty": 5,
+          "uom": "EA",
+          "wbs": "C100121.10.30"
+        },
+        {
+          "category": "PO",
+          "material": "4511312405_20",
+          "description": "10 TEE EQUAL; HDP",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C500522.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511312405_40",
+          "description": "10 HDPE STUB FLANGE",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C500522.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511560878_10",
+          "description": "Flexible Cable Conduit 20mm , high impac",
+          "qty": 200,
+          "uom": "M",
+          "wbs": "C200225.50.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511560878_20",
+          "description": "Junction box quards line for 20mm pvc co",
+          "qty": 100,
+          "uom": "EA",
+          "wbs": "C200225.50.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511560878_30",
+          "description": "Connector 3/4 for square box JB include",
+          "qty": 100,
+          "uom": "EA",
+          "wbs": "C200225.50.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512491536_10",
+          "description": "LED Floodlight, 220 VAC, Lumens 15000,",
+          "qty": 25,
+          "uom": "EA",
+          "wbs": "C300520.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512753823_20",
+          "description": "BPA-4BC2-6NNN-VGN",
+          "qty": 25,
+          "uom": "EA",
+          "wbs": "C700122.20.12"
+        },
+        {
+          "category": "MN",
+          "material": "15116438",
+          "description": "ABSORBENT MATERIAL, OIL AND",
+          "qty": 90,
+          "uom": "BAG",
+          "wbs": "X501121.10.10"
+        }
+      ]
+    },
     "5113001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4504634861_10",
-          "description": "GATE VALVE, 12, C.I. A126, O.S.&Y, FLAN",
+          "description": "GATE VALVE, 12\", C.I. A126, O.S.&Y, FLAN",
           "qty": 4,
           "uom": "JG",
           "wbs": "C300415.01.02.0001"
@@ -1418,12 +1759,12 @@
       ]
     },
     "5151001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4504640869_10",
-          "description": "12 CLA-VAL 50-01 PRESSURE RELIEF VALVE,",
+          "description": "12\" CLA-VAL 50-01 PRESSURE RELIEF VALVE,",
           "qty": 1,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -1451,11 +1792,67 @@
           "qty": 1,
           "uom": "CRT",
           "wbs": "X102009.BL.KG.K001"
+        },
+        {
+          "category": "N/A",
+          "material": "15080775",
+          "description": "AIR CONDITIONER;SPLIT;5PK;FLOOR STANDING",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "SIDB005800.03.11"
+        },
+        {
+          "category": "N/A",
+          "material": "15086675",
+          "description": "FLANGE, PIPE;RAISED FACE; 6IN; SLIP ON;",
+          "qty": 1,
+          "uom": "PLT",
+          "wbs": "X888888"
+        },
+        {
+          "category": "N/A",
+          "material": "4511319153_50",
+          "description": "GASKET; 6 INCH RED RUBBER, 1/8 INCH THIC",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "C200225.60.70"
+        },
+        {
+          "category": "N/A",
+          "material": "4511319153_60",
+          "description": "GASKET; 8 INCH RED RUBBER, 1/8 INCH THIC",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "C200225.60.70"
+        },
+        {
+          "category": "N/A",
+          "material": "4511319153_80",
+          "description": "GASKET; 12 INCH RED RUBBER, 1/8 INCH THI",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "C200225.60.70"
+        },
+        {
+          "category": "N/A",
+          "material": "4505646307_10",
+          "description": "Completed Set Lightning Protection Syste",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "RIDB800012.30.30.5700"
+        },
+        {
+          "category": "N/A",
+          "material": "15162494",
+          "description": "CONCRETE GROUTING COMPD;SIKA GROUT 215",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "X888888"
         }
       ]
     },
     "5138001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -1468,7 +1865,7 @@
         {
           "category": "PO",
           "material": "4504897541_10",
-          "description": "12 - 45 WELD  LATERAL",
+          "description": "12\" - 45 WELD  LATERAL",
           "qty": 2,
           "uom": "EA",
           "wbs": "C300118.10.10"
@@ -1476,7 +1873,7 @@
         {
           "category": "PO",
           "material": "4504897541_20",
-          "description": "4 - 45 DEG WELD LATERAL",
+          "description": "4\" - 45 DEG WELD LATERAL",
           "qty": 2,
           "uom": "EA",
           "wbs": "C300118.10.10"
@@ -1756,7 +2153,7 @@
       ]
     },
     "5121001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -1786,7 +2183,7 @@
           "category": "PO",
           "material": "4510654165_10",
           "description": "Silent type Generator set (Genset) 20kVA",
-          "qty": 3,
+          "qty": 2,
           "uom": "JG",
           "wbs": "C703223.10.20"
         },
@@ -2225,7 +2622,7 @@
       ]
     },
     "5001004021": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -2270,7 +2667,7 @@
         {
           "category": "PO",
           "material": "4505120163_10",
-          "description": "ANSI CLASS 150 FULL FACE 24 COMPRESSED",
+          "description": "ANSI CLASS 150 FULL FACE 24\" COMPRESSED",
           "qty": 2,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -2278,7 +2675,7 @@
         {
           "category": "PO",
           "material": "4505120163_20",
-          "description": "ANSI CLASS 150 FULL FACE 16 COMPRESSED",
+          "description": "ANSI CLASS 150 FULL FACE 16\" COMPRESSED",
           "qty": 9,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -2310,7 +2707,7 @@
         {
           "category": "PO",
           "material": "4505120163_60",
-          "description": "ANSI CLASS 150 FULL FACE 8 COMPRESSED",
+          "description": "ANSI CLASS 150 FULL FACE 8\" COMPRESSED",
           "qty": 9,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -2318,7 +2715,7 @@
         {
           "category": "PO",
           "material": "4505120163_70",
-          "description": "ANSI CLASS 150 FULL FACE 6 COMPRESSED",
+          "description": "ANSI CLASS 150 FULL FACE 6\" COMPRESSED",
           "qty": 40,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -2326,7 +2723,7 @@
         {
           "category": "PO",
           "material": "4505120163_80",
-          "description": "ANSI CLASS 150 FULL FACE 4 COMPRESSED",
+          "description": "ANSI CLASS 150 FULL FACE 4\" COMPRESSED",
           "qty": 8,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -2334,7 +2731,7 @@
       ]
     },
     "5114001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -2451,7 +2848,7 @@
       ]
     },
     "5604001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -2620,19 +3017,11 @@
           "qty": 5,
           "uom": "EA",
           "wbs": "Excess Material"
-        },
-        {
-          "category": "PO",
-          "material": "4510971401_10",
-          "description": "Inverter Duty Induction Motor",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "C202723.10.10"
         }
       ]
     },
     "5116001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -2701,14 +3090,6 @@
         {
           "category": "PO",
           "material": "4504934007_80",
-          "description": "REDUCER:PIPE; CONCENTRIC;  BUTT WELD;",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "PO",
-          "material": "4504934007_90",
           "description": "REDUCER:PIPE; CONCENTRIC;  BUTT WELD;",
           "qty": 2,
           "uom": "EA",
@@ -2860,19 +3241,19 @@
         },
         {
           "category": "MN",
-          "material": "15114953",
-          "description": "THERMOWELL;STAINLESS STEEL 309/310",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "C200225.20.10"
-        },
-        {
-          "category": "MN",
           "material": "15088714",
           "description": "VALVE:BUTTERFLY;SERIES 60;LUG TYPE;4IN",
           "qty": 7,
           "uom": "EA",
           "wbs": "C302123.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15114953",
+          "description": "THERMOWELL;STAINLESS STEEL 309/310",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200225.20.10"
         },
         {
           "category": "MN",
@@ -2893,7 +3274,7 @@
       ]
     },
     "5001006021": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -2930,7 +3311,7 @@
         {
           "category": "PO",
           "material": "4507882816_10",
-          "description": "VALVE,BUTTERFLY; SIZE:6 IN; CWP : 250;",
+          "description": "\"VALVE,BUTTERFLY; SIZE:6 IN; CWP : 250;",
           "qty": 5,
           "uom": "EA",
           "wbs": "C301419.10.10.3000"
@@ -2945,24 +3326,24 @@
         },
         {
           "category": "MN",
-          "material": "15101068",
-          "description": "SHIM SET;PRE-CUT SHIM; SIZE E; 0.025IN",
-          "qty": 1,
-          "uom": "JG",
-          "wbs": "C201020.10.10.2000"
-        },
-        {
-          "category": "MN",
           "material": "15101048",
           "description": "SHIM SET;PRE-CUT SHIM; SIZE E; 0.075IN",
           "qty": 2,
           "uom": "JG",
           "wbs": "C200820.10.10.2000"
+        },
+        {
+          "category": "MN",
+          "material": "15101068",
+          "description": "SHIM SET;PRE-CUT SHIM; SIZE E; 0.025IN",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C201020.10.10.2000"
         }
       ]
     },
     "5111001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -2975,7 +3356,7 @@
         {
           "category": "PO",
           "material": "4505174969_10",
-          "description": "FLOW TRANSMITTER 20, ROSEMOUNT MAGFLOW:",
+          "description": "FLOW TRANSMITTER 20\", ROSEMOUNT MAGFLOW:",
           "qty": 1,
           "uom": "EA",
           "wbs": "C300415.01.02.0004"
@@ -2983,7 +3364,7 @@
         {
           "category": "PO",
           "material": "4505174969_30",
-          "description": "FLOW TRANSMITTER 12, ROSEMOUNT MAGFLOW",
+          "description": "FLOW TRANSMITTER 12\", ROSEMOUNT MAGFLOW",
           "qty": 1,
           "uom": "EA",
           "wbs": "C300415.01.02.0004"
@@ -2991,7 +3372,7 @@
         {
           "category": "PO",
           "material": "4505174969_40",
-          "description": "FLOW TRANSMITTER 10, ROSEMOUNT MAGFLOW",
+          "description": "FLOW TRANSMITTER 10\", ROSEMOUNT MAGFLOW",
           "qty": 2,
           "uom": "EA",
           "wbs": "C300415.01.02.0004"
@@ -2999,7 +3380,7 @@
         {
           "category": "PO",
           "material": "4505174969_50",
-          "description": "FLOW TRANSMITTER 8, ROSEMOUNT MAGFLOW",
+          "description": "FLOW TRANSMITTER 8\", ROSEMOUNT MAGFLOW",
           "qty": 3,
           "uom": "EA",
           "wbs": "C300415.01.02.0004"
@@ -3007,7 +3388,7 @@
         {
           "category": "PO",
           "material": "4505174969_60",
-          "description": "FLOW TRANSMITTER 6, ROSEMOUNT MAGFLOW",
+          "description": "FLOW TRANSMITTER 6\", ROSEMOUNT MAGFLOW",
           "qty": 1,
           "uom": "EA",
           "wbs": "C300415.01.02.0004"
@@ -3054,8 +3435,85 @@
         }
       ]
     },
+    "5163001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4505094793_30",
+          "description": "GATE VALVE, 12IN",
+          "qty": 43,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4505174969_20",
+          "description": "FLOW TRANSMITTER 14\", ROSEMOUNT MAGFLOW:",
+          "qty": 5,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0004"
+        },
+        {
+          "category": "PO",
+          "material": "4505174969_30",
+          "description": "FLOW TRANSMITTER 12\", ROSEMOUNT MAGFLOW",
+          "qty": 9,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0004"
+        },
+        {
+          "category": "PO",
+          "material": "4505174969_40",
+          "description": "FLOW TRANSMITTER 10\", ROSEMOUNT MAGFLOW",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0004"
+        },
+        {
+          "category": "PO",
+          "material": "4505174969_50",
+          "description": "FLOW TRANSMITTER 8\", ROSEMOUNT MAGFLOW",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0004"
+        },
+        {
+          "category": "PO",
+          "material": "4505174969_60",
+          "description": "FLOW TRANSMITTER 6\", ROSEMOUNT MAGFLOW",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0004"
+        },
+        {
+          "category": "PO",
+          "material": "4505174969_70",
+          "description": "FLOW TRANSMITTER 4\", ROSEMOUNT MAGFLOW",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0004"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_30",
+          "description": "JOINTING KIT OUTDOOR;  ONECORE;  ARMOURE",
+          "qty": 10,
+          "uom": "JG",
+          "wbs": "C301425.10.10.1111"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_60",
+          "description": "JOINTING KIT OUTDOOR;  ONECORE;  ARMOURE",
+          "qty": 30,
+          "uom": "JG",
+          "wbs": "C301425.10.20.2221"
+        }
+      ]
+    },
     "5110001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -3100,7 +3558,7 @@
       ]
     },
     "5601013001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -3210,17 +3668,17 @@
           "category": "MN",
           "material": "15111685",
           "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
-          "qty": 20,
+          "qty": 30,
           "uom": "M",
-          "wbs": "C300519.10.20.1000.10"
+          "wbs": "C201822.10.10"
         },
         {
           "category": "MN",
           "material": "15111685",
           "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
-          "qty": 30,
+          "qty": 20,
           "uom": "M",
-          "wbs": "C201822.10.10"
+          "wbs": "C300519.10.20.1000.10"
         },
         {
           "category": "MN",
@@ -3240,11 +3698,35 @@
         },
         {
           "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 100,
+          "uom": "M",
+          "wbs": "C204721.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 250,
+          "uom": "M",
+          "wbs": "C700122.70.36"
+        },
+        {
+          "category": "MN",
           "material": "15111706",
           "description": "CABLE, POWER, ELECTRICAL;TECK 90; 10",
-          "qty": 500,
+          "qty": 200,
           "uom": "M",
           "wbs": "C200420.10.10.4000"
+        },
+        {
+          "category": "MN",
+          "material": "15111707",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 12",
+          "qty": 290,
+          "uom": "M",
+          "wbs": "C200418.01.01"
         },
         {
           "category": "MN",
@@ -3261,6 +3743,14 @@
           "qty": 150,
           "uom": "M",
           "wbs": "C100721.20.10"
+        },
+        {
+          "category": "MN",
+          "material": "13393219",
+          "description": "CABLE:POWER;ELEC; SWA; 4 CORE; 240 SQMM",
+          "qty": 70,
+          "uom": "M",
+          "wbs": "C400724.10.11"
         },
         {
           "category": "MN",
@@ -3321,12 +3811,12 @@
       ]
     },
     "5115001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4505119044_10",
-          "description": "6 AVK UNIVERSAL STEPPED MECHANICAL",
+          "description": "6\" AVK UNIVERSAL STEPPED MECHANICAL",
           "qty": 25,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3334,7 +3824,7 @@
         {
           "category": "PO",
           "material": "4505119044_100",
-          "description": "2 AVK UNIVERSAL STEPPED MECHANICAL",
+          "description": "2\" AVK UNIVERSAL STEPPED MECHANICAL",
           "qty": 3,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3342,7 +3832,7 @@
         {
           "category": "PO",
           "material": "4505119044_110",
-          "description": "12 AVK UNIVERSAL FLANGE ADAPTER",
+          "description": "12\" AVK UNIVERSAL FLANGE ADAPTER",
           "qty": 3,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3358,7 +3848,7 @@
         {
           "category": "PO",
           "material": "4505119044_130",
-          "description": "8 AVK UNIVERSAL FLANGE ADAPTER",
+          "description": "8\" AVK UNIVERSAL FLANGE ADAPTER",
           "qty": 3,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3374,7 +3864,7 @@
         {
           "category": "PO",
           "material": "4505119044_20",
-          "description": "10 AVK UNIVERSAL STEPPED MECHANICAL",
+          "description": "10\" AVK UNIVERSAL STEPPED MECHANICAL",
           "qty": 8,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3382,7 +3872,7 @@
         {
           "category": "PO",
           "material": "4505119044_30",
-          "description": "8 AVK UNIVERSAL STEPPED MECHANICAL",
+          "description": "8\" AVK UNIVERSAL STEPPED MECHANICAL",
           "qty": 3,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3390,7 +3880,7 @@
         {
           "category": "PO",
           "material": "4505119044_40",
-          "description": "6 AVK UNIVERSAL END CAP, PN16, MODEL",
+          "description": "6\" AVK UNIVERSAL END CAP, PN16, MODEL",
           "qty": 10,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3398,7 +3888,7 @@
         {
           "category": "PO",
           "material": "4505119044_50",
-          "description": "4 AVK UNIVERSAL STEPPED MECHANICAL",
+          "description": "4\" AVK UNIVERSAL STEPPED MECHANICAL",
           "qty": 5,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3406,7 +3896,7 @@
         {
           "category": "PO",
           "material": "4505119044_60",
-          "description": "12 AVK UNIVERSAL STEPPED MECHANICAL",
+          "description": "12\" AVK UNIVERSAL STEPPED MECHANICAL",
           "qty": 5,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3414,7 +3904,7 @@
         {
           "category": "PO",
           "material": "4505119044_70",
-          "description": "10 AVK UNIVERSAL FLANGE ADAPTER",
+          "description": "10\" AVK UNIVERSAL FLANGE ADAPTER",
           "qty": 3,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3430,7 +3920,7 @@
         {
           "category": "PO",
           "material": "4505119044_90",
-          "description": "4 AVK UNIVERSAL END CAP, PN16, MODEL",
+          "description": "4\" AVK UNIVERSAL END CAP, PN16, MODEL",
           "qty": 3,
           "uom": "EA",
           "wbs": "C300415.01.02.0001"
@@ -3542,7 +4032,7 @@
       ]
     },
     "5119001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -3899,7 +4389,7 @@
       ]
     },
     "5103001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -4121,14 +4611,6 @@
           "category": "MN",
           "material": "15117600",
           "description": "BAR, METAL;ROUND; 5/8IN DIA; 12FT LG;",
-          "qty": 50,
-          "uom": "EA",
-          "wbs": "C301824.01.01"
-        },
-        {
-          "category": "MN",
-          "material": "15117600",
-          "description": "BAR, METAL;ROUND; 5/8IN DIA; 12FT LG;",
           "qty": 20,
           "uom": "EA",
           "wbs": "R100007.30"
@@ -4137,9 +4619,9 @@
           "category": "MN",
           "material": "15117600",
           "description": "BAR, METAL;ROUND; 5/8IN DIA; 12FT LG;",
-          "qty": 10,
+          "qty": 50,
           "uom": "EA",
-          "wbs": "C203620.10.10.3000"
+          "wbs": "C301824.01.01"
         },
         {
           "category": "MN",
@@ -4151,11 +4633,11 @@
         },
         {
           "category": "MN",
-          "material": "15107810",
-          "description": "ROD, GROUND;1/2IN DIA; 96IN (8FT) LG;",
-          "qty": 6,
+          "material": "15117600",
+          "description": "BAR, METAL;ROUND; 5/8IN DIA; 12FT LG;",
+          "qty": 10,
           "uom": "EA",
-          "wbs": "C202323.10.10"
+          "wbs": "C203620.10.10.3000"
         },
         {
           "category": "MN",
@@ -4168,7 +4650,7 @@
       ]
     },
     "5001004011": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -4245,7 +4727,7 @@
       ]
     },
     "5124001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -4350,53 +4832,229 @@
           "qty": 66,
           "uom": "FT",
           "wbs": "C301424.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15092432",
+          "description": "ROD:CONTINUOUS THD;3/4IN UNC;10TPI;6FT",
+          "qty": 18,
+          "uom": "FT",
+          "wbs": "C300926.10.30"
         }
       ]
     },
-    "5163001001": {
-      "lastUpdate": "03Oct2026",
+    "5129001001": {
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
-          "material": "4505174969_30",
-          "description": "FLOW TRANSMITTER 12, ROSEMOUNT MAGFLOW",
-          "qty": 9,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0004"
+          "material": "4505229419_10",
+          "description": "GROUNDING CABLE 4/0 AWG",
+          "qty": 165,
+          "uom": "M",
+          "wbs": "C300415.01.02.0003"
         },
         {
           "category": "PO",
-          "material": "4505174969_40",
-          "description": "FLOW TRANSMITTER 10, ROSEMOUNT MAGFLOW",
-          "qty": 3,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0004"
+          "material": "4507041869_10",
+          "description": "Bare Copper Conductor; 1 x 120 mm2",
+          "qty": 100,
+          "uom": "M",
+          "wbs": "C301419.10.10.1000"
         },
         {
           "category": "PO",
-          "material": "4505174969_50",
-          "description": "FLOW TRANSMITTER 8, ROSEMOUNT MAGFLOW",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0004"
-        },
-        {
-          "category": "PO",
-          "material": "4505174969_60",
-          "description": "FLOW TRANSMITTER 6, ROSEMOUNT MAGFLOW",
+          "material": "4508270865_10",
+          "description": "PLATE, 0.55mm THICK, ASTM A36, 1.5m x 3m",
           "qty": 1,
           "uom": "EA",
-          "wbs": "C300415.01.02.0004"
+          "wbs": "C700122.20.82"
+        },
+        {
+          "category": "PO",
+          "material": "4508381922_10",
+          "description": "JOINTING KIT  INDOOR",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4508381922_20",
+          "description": "STAINLESS STEEL BOLT Size  1/2  x 2 Inch",
+          "qty": 100,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4510325139_10",
+          "description": "ROTOR C/W SHAFT ASSEMBLY",
+          "qty": 1,
+          "uom": "UNT",
+          "wbs": "C200521.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510640498_110",
+          "description": "110MM OD PE100 SDR11 HDPE STUB PIPE & GA",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "PO",
+          "material": "4511161684_20",
+          "description": "UTP A DUR 650",
+          "qty": 5,
+          "uom": "ROU",
+          "wbs": "C701724.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511385950_10",
+          "description": "UTP A DUR 650 ; GMAW Wire Hardfacing",
+          "qty": 5,
+          "uom": "ROU",
+          "wbs": "C701724.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511692877_10",
+          "description": "Wedge Type Strain Clamp 50-70 mm2",
+          "qty": 80,
+          "uom": "EA",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511692877_20",
+          "description": "Tension Bracket for Wedge Type Strain Cl",
+          "qty": 100,
+          "uom": "EA",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511692877_30",
+          "description": "Suspension Clamp & Chain Link 50-70 mm2",
+          "qty": 100,
+          "uom": "EA",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511717052_10",
+          "description": "CORNING FREEDM? One Tight-Buffered, Int",
+          "qty": 1,
+          "uom": "ROU",
+          "wbs": "C301923.20.70"
+        },
+        {
+          "category": "PO",
+          "material": "4511806763_10",
+          "description": "End-Suction Centrifugal Pump c/w Elect",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C200225.30.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511901997_10",
+          "description": "Centrifugal pump with electric motor",
+          "qty": 1,
+          "uom": "PAC",
+          "wbs": "R100007.30"
+        },
+        {
+          "category": "PO",
+          "material": "4512563679_10",
+          "description": "Endress+Hauser",
+          "qty": 0.5,
+          "uom": "JG",
+          "wbs": "C301124.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4513223792_10",
+          "description": "Termination Kit Outdoor; Heat-shrink; f",
+          "qty": 30,
+          "uom": "EA",
+          "wbs": "C204324.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111685",
+          "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
+          "qty": 330,
+          "uom": "M",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "15110954",
+          "description": "RESIDUAL CURRENT DEVICE;HEAVY DUTY;",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C304218.01.01.0003"
+        },
+        {
+          "category": "MN",
+          "material": "15111685",
+          "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
+          "qty": 70,
+          "uom": "M",
+          "wbs": "R800012.30.20.3000"
+        },
+        {
+          "category": "N/A",
+          "material": "15092439",
+          "description": "ROD:CONTINUOUS THD;3/8IN UNC;16TPI;3FT",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "X888888"
+        },
+        {
+          "category": "N/A",
+          "material": "15092427",
+          "description": "ROD:CONTINUOUS THD;5/8IN UNC;11TPI;3FT",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "X888888"
+        },
+        {
+          "category": "N/A",
+          "material": "15087241",
+          "description": "COUPLING, CLAMP, PIPE;HYMAX 2000; TWO",
+          "qty": 15,
+          "uom": "EA",
+          "wbs": "X888888"
+        },
+        {
+          "category": "N/A",
+          "material": "15108097",
+          "description": "CVR JBK-B APPLETON",
+          "qty": 25,
+          "uom": "EA",
+          "wbs": "X888888"
+        },
+        {
+          "category": "N/A",
+          "material": "15107990",
+          "description": "JUNCTION BOX;FERALOY; 2-1/16IN INSIDE D",
+          "qty": 25,
+          "uom": "EA",
+          "wbs": "X888888"
         }
       ]
     },
     "5601011001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4505571938_30",
-          "description": "CABLE, 600/1000V, 3 G X 2.5 mm¬≤",
+          "description": "CABLE, 600/1000V, 3 G X 2.5 mm≤",
           "qty": 1086,
           "uom": "M",
           "wbs": "C300415.01.02.0003"
@@ -4404,8 +5062,16 @@
         {
           "category": "PO",
           "material": "4505571938_40",
-          "description": "CABLE, 600/1000V, 12 C X 1.5 mm¬≤",
+          "description": "CABLE, 600/1000V, 12 C X 1.5 mm≤",
           "qty": 300,
+          "uom": "M",
+          "wbs": "C300415.01.02.0003"
+        },
+        {
+          "category": "PO",
+          "material": "4505571938_60",
+          "description": "CABLE, 600/1000V, 1 P X 1.5 mm≤",
+          "qty": 3581,
           "uom": "M",
           "wbs": "C300415.01.02.0003"
         },
@@ -4413,29 +5079,13 @@
           "category": "PO",
           "material": "4508723112_50",
           "description": "BARE COPPER CONDUCTOR 1x120mm2",
-          "qty": 200,
+          "qty": 100,
           "uom": "M",
           "wbs": "C700122.40.91"
         },
         {
           "category": "PO",
           "material": "4508803922_30",
-          "description": "Control Cable Multi Core 15C",
-          "qty": 500,
-          "uom": "M",
-          "wbs": "Excess Material"
-        },
-        {
-          "category": "PO",
-          "material": "4508827374_20",
-          "description": "Control Cable Multi Core 10C",
-          "qty": 300,
-          "uom": "M",
-          "wbs": "Excess Material"
-        },
-        {
-          "category": "PO",
-          "material": "4508827374_30",
           "description": "Control Cable Multi Core 15C",
           "qty": 500,
           "uom": "M",
@@ -4501,6 +5151,30 @@
           "category": "MN",
           "material": "15111700",
           "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 30,
+          "uom": "M",
+          "wbs": "X100921.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 100,
+          "uom": "M",
+          "wbs": "C201120.10.10.3000"
+        },
+        {
+          "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 500,
+          "uom": "M",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
           "qty": 385,
           "uom": "M",
           "wbs": "C100721.20.10"
@@ -4520,14 +5194,6 @@
           "qty": 150,
           "uom": "M",
           "wbs": "C100721.10.10"
-        },
-        {
-          "category": "MN",
-          "material": "15159797",
-          "description": "CORD:ELEC;STP;CAT 5E;300V;24AWG;1000FT",
-          "qty": 1,
-          "uom": "PAC",
-          "wbs": "C301824.01.01"
         },
         {
           "category": "MN",
@@ -4564,12 +5230,12 @@
       ]
     },
     "5601015001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4505571938_50",
-          "description": "CABLE, 600/1000V, 2 P X 1.5 mm¬≤",
+          "description": "CABLE, 600/1000V, 2 P X 1.5 mm≤",
           "qty": 5247,
           "uom": "M",
           "wbs": "C300415.01.02.0003"
@@ -4600,11 +5266,51 @@
         },
         {
           "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 90,
+          "uom": "M",
+          "wbs": "C202920.10.10.4000"
+        },
+        {
+          "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 80,
+          "uom": "M",
+          "wbs": "C203423.10.10"
+        },
+        {
+          "category": "MN",
           "material": "15111707",
           "description": "CABLE, POWER, ELECTRICAL;TECK 90; 12",
           "qty": 500,
           "uom": "M",
           "wbs": "C205821.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111714",
+          "description": "CABLE:ELEC;TECK 90;3CORE;8AWG;1KV",
+          "qty": 180,
+          "uom": "M",
+          "wbs": "C205821.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "16214280",
+          "description": "CABLE:FO;MULTIMODE 50/125 OM2;4 FIBER",
+          "qty": 2000,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0004"
+        },
+        {
+          "category": "MN",
+          "material": "15111718",
+          "description": "CABLE:ELEC;TECK 90;3CORE;2AWG;1KV",
+          "qty": 500,
+          "uom": "M",
+          "wbs": "C201124.10.10"
         },
         {
           "category": "N/A",
@@ -4648,8 +5354,333 @@
         }
       ]
     },
+    "5132001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4505737085_10",
+          "description": "Expansion Joint; 4IN; Single Unrestraine",
+          "qty": 12,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4506424229_20",
+          "description": "U:BOLT; 3/4IN ROD DIA.; 10-7/8IN HOOK;",
+          "qty": 50,
+          "uom": "EA",
+          "wbs": "C200520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4507749884_140",
+          "description": "BOLT 5/8\" X 3,5IN GR. 8 WITH NUT MATERIA",
+          "qty": 26,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507749884_90",
+          "description": "4\" ELBOW 90 DEG, LR, SCH40/STD, SMLS, SS",
+          "qty": 21,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_10",
+          "description": "2\" BALL VALVE, 150#, THREADED END. (MATE",
+          "qty": 5,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_100",
+          "description": "4\" CAP, SCH40/STD, SMLS, SS304, ANSI/ASM",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_110",
+          "description": "4\" PIPE, SCH 10S, SS304, 20FT  LG, ASME",
+          "qty": 24,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_150",
+          "description": "BOLT 5/8\" X 3,5IN GR. 8 WITH NUT MATERIA",
+          "qty": 186,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_20",
+          "description": "1/2\" U-BOLT, FOR PIPE 4\", MATERIAL SS.30",
+          "qty": 94,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_50",
+          "description": "2\" SOKOLET,  3000#, SS 304, ASME B16.11",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_70",
+          "description": "3\" PIPE, SCH 10S, SS304, 20FT  LG, ASME",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750328_90",
+          "description": "4\" ELBOW 90 DEG, LR, SCH40/STD, SMLS, SS",
+          "qty": 21,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_100",
+          "description": "4\" CAP, SCH40/STD, SMLS, SS304, ANSI/ASM",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_120",
+          "description": "4IN X 2IN, REDUCER ECCENTRIC, SCH40/STD,",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_140",
+          "description": "SPIRAL WOUND GASKET 4IN #150",
+          "qty": 52,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_150",
+          "description": "BOLT 5/8\" X 3,5IN GR. 8 WITH NUT MATERIA",
+          "qty": 266,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_20",
+          "description": "1/2\" U-BOLT, FOR PIPE 4\", MATERIAL SS.30",
+          "qty": 74,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_40",
+          "description": "2\" UNION, 150#, FNPT,  SS304, ASME B16.1",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_50",
+          "description": "2\" SOKOLET,  3000#, SS 304, ASME B16.11",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_60",
+          "description": "3\" SLIP-ON FLANGE, 150#, RF, SS304, ASME",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_80",
+          "description": "4\" SLIP-ON FLANGE, 150#, RF, SS304, ASME",
+          "qty": 33,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507750416_90",
+          "description": "4\" ELBOW 90 DEG, LR, SCH40/STD, SMLS, SS",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4510517950_10",
+          "description": "HP PRESSURE BLOWER PACKAGE ASSY,",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C203620.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4510881561_10",
+          "description": "COOLING WATER TANK; NHW-350",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C204325.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4510931555_10",
+          "description": "CABLE; NYAF 1X70MM2; COPPER CONDUCTOR (F",
+          "qty": 70,
+          "uom": "M",
+          "wbs": "C700122.90.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510931555_20",
+          "description": "CABLE; NYAF 1X70MM2; COPPER CONDUCTOR (F",
+          "qty": 20,
+          "uom": "M",
+          "wbs": "C700122.90.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511312405_30",
+          "description": "6 -90 DEG. ELBOW",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C500522.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511312405_50",
+          "description": "REDUCER:PIPE; CONCENTRIC",
+          "qty": 5,
+          "uom": "EA",
+          "wbs": "C500522.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511362675_10",
+          "description": "Industrial oven",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C100723.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512075861_10",
+          "description": "Informa Loker metal 9 Pintu - Putih/hija",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
+        },
+        {
+          "category": "PO",
+          "material": "4512174398_10",
+          "description": "11 kV Load Break Switch",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C200225.50.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512296770_20",
+          "description": "MV Cable; 1x95mmsq; 8.7/15(17.5) kV; Cop",
+          "qty": 50,
+          "uom": "M",
+          "wbs": "C200225.50.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512958328_10",
+          "description": "Kulkas Sharp 338Ltr 2 Pintu SJ - 426 GI",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C703223.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512958328_20",
+          "description": "Modena Dispenser Air Bottom Loading Dd 7",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C703223.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086678",
+          "description": "FLANGE, PIPE;RAISED FACE; 12IN; SLIP ON;",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200127.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086580",
+          "description": "ELBOW, PIPE;LONG RAD; 45DEG; 6IN BUTT",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086596",
+          "description": "ELBOW, PIPE;LONG RAD; 45DEG; 10IN BUTT",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086604",
+          "description": "ELBOW, PIPE;LONG RAD; 90DEG; 12IN BUTT",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086677",
+          "description": "FLANGE, PIPE;RAISED FACE; 10IN; SLIP ON;",
+          "qty": 28,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086678",
+          "description": "FLANGE, PIPE;RAISED FACE; 12IN; SLIP ON;",
+          "qty": 11,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        }
+      ]
+    },
     "5001006031": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -4701,29 +5732,205 @@
         }
       ]
     },
-    "5001006011": {
-      "lastUpdate": "03Oct2026",
+    "5128001001": {
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
-          "material": "4506104244_10",
-          "description": "Rosemount Magnetic Flow Meter Model no.",
+          "material": "4506042417_10",
+          "description": "Grizzly G0442 - 5 HP Cyclone Dust Collec",
           "qty": 1,
-          "uom": "JG",
-          "wbs": "C100719.10.10.7000"
+          "uom": "UNT",
+          "wbs": "C300519.10.10.3000.10"
         },
         {
           "category": "PO",
-          "material": "4508277542_10",
-          "description": "Self Drill Screw gauge#14 or 1/4, 3lg",
-          "qty": 4358,
+          "material": "4506042417_20",
+          "description": "Grizzly T26362 - 486mm Canister Filter w",
+          "qty": 2,
           "uom": "EA",
-          "wbs": "Excess Material"
+          "wbs": "C300519.10.10.3000.10"
+        },
+        {
+          "category": "PO",
+          "material": "4506042417_30",
+          "description": "Grizzly T20246 - Collection Bag for G044",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C300519.10.10.3000.10"
+        },
+        {
+          "category": "PO",
+          "material": "4506042417_40",
+          "description": "Woodstock - 6\" x 10' Clear Wire Reinforc",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300519.10.10.3000.10"
+        },
+        {
+          "category": "PO",
+          "material": "4506042417_50",
+          "description": "6 inch Hose Clamp",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "PO",
+          "material": "4506042417_60",
+          "description": "Nordfab 3222-0806-100000 - 6\" x 8\" Indus",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300519.10.10.3000.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510392799_10",
+          "description": "Electric Hoist 35 Ton with Trolley",
+          "qty": 1.5,
+          "uom": "JG",
+          "wbs": "C300122.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510571761_10",
+          "description": "Air Terminal konvensional, Copper 1 IN",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300623.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510571761_20",
+          "description": "Terminal KIT Unit",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C300623.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510571761_30",
+          "description": "Lightning event counter",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C300623.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510571761_40",
+          "description": "Box Lightning counter + Pita Magnetic",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C300623.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510640492_10",
+          "description": "LED Floodlight, 220 VAC, Lumens 15000,",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C300520.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4511355505_20",
+          "description": "Mini PC with Touch Panel",
+          "qty": 9,
+          "uom": "EA",
+          "wbs": "C301121.04.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511483321_10",
+          "description": "Magnetrol Flow Switch TSF-4100-E00",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300224.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511806763_10",
+          "description": "End-Suction Centrifugal Pump c/w Elect",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200225.30.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_10",
+          "description": "TERMINATION KIT OUTDOOR;  ONE CORE;  ARM",
+          "qty": 9,
+          "uom": "JG",
+          "wbs": "C301425.10.10.1111"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_20",
+          "description": "TERMINATION KIT INDOOR;  ONE CORE;  ARMO",
+          "qty": 9,
+          "uom": "JG",
+          "wbs": "C301425.10.10.1111"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_40",
+          "description": "TERMINATION KIT INDOOR;  ONE CORE;  ARMO",
+          "qty": 30,
+          "uom": "JG",
+          "wbs": "C301425.10.20.2221"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_50",
+          "description": "TERMINATION KIT OUTDOOR;  ONE CORE;  ARM",
+          "qty": 15,
+          "uom": "JG",
+          "wbs": "C301425.10.20.2221"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_70",
+          "description": "TERMINATION KIT INDOOR;  ONE CORE;  ARMO",
+          "qty": 10,
+          "uom": "JG",
+          "wbs": "C301425.10.20.2221"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_80",
+          "description": "TERMINATION KIT OUTDOOR;  THREE CORE;  A",
+          "qty": 10,
+          "uom": "JG",
+          "wbs": "C301425.10.20.2221"
+        },
+        {
+          "category": "PO",
+          "material": "4512137983_90",
+          "description": "JOINTING KIT OUTDOOR;  THREE CORE;  ARMO",
+          "qty": 10,
+          "uom": "JG",
+          "wbs": "C301425.10.20.2221"
+        },
+        {
+          "category": "MN",
+          "material": "15111685",
+          "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
+          "qty": 150,
+          "uom": "M",
+          "wbs": "R100007.30"
+        },
+        {
+          "category": "MN",
+          "material": "15103741",
+          "description": "FUSE;C TYPE; STANDARD CUT-OUT; 100AMP;",
+          "qty": 9,
+          "uom": "EA",
+          "wbs": "C301824.01.01"
         }
       ]
     },
     "5120001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -4775,19 +5982,35 @@
         },
         {
           "category": "PO",
-          "material": "4512865733_10",
-          "description": "LADDER ROLLING MULTI 1.1M 4X2S PRLRM1108",
+          "material": "4513113304_10",
+          "description": "ANALYZER:OPACITY; MODEL:4500 MKIII+DUS",
           "qty": 1,
           "uom": "EA",
-          "wbs": "C205523.01.02"
+          "wbs": "C206923.10.20"
         },
         {
           "category": "PO",
-          "material": "4512865733_20",
-          "description": "LADDER ROLLING MULTI 2.8M 4X5S PRLRM2820",
+          "material": "4513113304_20",
+          "description": "ANALYZER:OPACITY; MODEL:4500 MKIII+DUS",
           "qty": 1,
           "uom": "EA",
-          "wbs": "C205523.01.02"
+          "wbs": "C206923.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4513271592_10",
+          "description": "Bentonite for Grounding; GEM Erico",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "X101006.OH.RM.MNF3"
+        },
+        {
+          "category": "PO",
+          "material": "4513272720_10",
+          "description": "Cable Grounding 1x70mm2 NYAF ; insulatio",
+          "qty": 100,
+          "uom": "M",
+          "wbs": "X101006.OH.RM.MNF3"
         },
         {
           "category": "MN",
@@ -4816,7 +6039,7 @@
       ]
     },
     "5118012021": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -4836,8 +6059,189 @@
         }
       ]
     },
+    "5147001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4506388465_10",
+          "description": "High Speed Gear (shaft)",
+          "qty": 0.5,
+          "uom": "UNT",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4509067109_10",
+          "description": "Furniture for Tanamalia and Police Camp",
+          "qty": 0.2,
+          "uom": "LS",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4510558637_10",
+          "description": "POSITIVE DISPLACEMENT PLUNGER PUMP",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511175407_260",
+          "description": "Standard Splice Plate Ladder",
+          "qty": 298,
+          "uom": "EA",
+          "wbs": "C700122.70.70"
+        },
+        {
+          "category": "PO",
+          "material": "4511175407_270",
+          "description": "Round Head Serrated Bolt & Nut",
+          "qty": 4970,
+          "uom": "EA",
+          "wbs": "C700122.70.70"
+        },
+        {
+          "category": "PO",
+          "material": "4511201137_100",
+          "description": "Wire mesh cable tray c/w joiner & hanger",
+          "qty": 0.5,
+          "uom": "EA",
+          "wbs": "C301824.01.01"
+        },
+        {
+          "category": "PO",
+          "material": "4511380684_40",
+          "description": "Allen-Bradley 1756-A17 17 Slot ControlLo",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C301923.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511380684_60",
+          "description": "Allen Bradley 1756-IF8I ControlLogix Ana",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C301923.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511380684_80",
+          "description": "Allen-Bradley 1756-OW16I ControlLogix Is",
+          "qty": 11,
+          "uom": "EA",
+          "wbs": "C301923.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511380684_90",
+          "description": "Allen-Bradley 1756-IM16I ControlLogix Is",
+          "qty": 13,
+          "uom": "EA",
+          "wbs": "C301923.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511397962_20",
+          "description": "D#3 MD LOW SPEED COUPLING Gridmember onl",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C206023.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511401389_10",
+          "description": "Safety switch 380V IP65 60Amp;non fuse;",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C203620.10.10.3000"
+        },
+        {
+          "category": "PO",
+          "material": "4511401389_20",
+          "description": "Safety switch 380V IP65 30Amp;non fuse;",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C203620.10.10.3000"
+        },
+        {
+          "category": "PO",
+          "material": "4511401389_30",
+          "description": "Disconnect Switch 100Amp non fusible, NE",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300524.01.50"
+        },
+        {
+          "category": "PO",
+          "material": "4511401389_40",
+          "description": "DISCONNECT SWITCH 30 AMP, NON FUSED",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C300224.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511478426_50",
+          "description": "Guy Kits for 14 & 17 mtr Concrete pole",
+          "qty": 5,
+          "uom": "JG",
+          "wbs": "C301824.01.01"
+        },
+        {
+          "category": "PO",
+          "material": "4511518634_110",
+          "description": "Molded case circuit breaker 160 A type N",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C100923.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511518634_120",
+          "description": "MCB SCHNEIDER NEW DOMAE 3 PHASE 6KA 3P -",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C100923.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511518634_70",
+          "description": "Cable Gland Nicote, WGN 203, overall dia",
+          "qty": 5,
+          "uom": "EA",
+          "wbs": "C100923.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511518634_80",
+          "description": "Cable Gland Nicote, WGN 204, overall dia",
+          "qty": 15,
+          "uom": "EA",
+          "wbs": "C100923.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511518634_90",
+          "description": "Cable Gland Nicote, WGN 256, overall dia",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "C100923.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511704133_10",
+          "description": "Bico Pulverizer (Include Motor Base and",
+          "qty": 3,
+          "uom": "UN",
+          "wbs": "C100121.10.91"
+        }
+      ]
+    },
     "5601007001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -4961,6 +6365,14 @@
         },
         {
           "category": "MN",
+          "material": "15159797",
+          "description": "CORD:ELEC;STP;CAT 5E;300V;24AWG;1000FT",
+          "qty": 1,
+          "uom": "PAC",
+          "wbs": "C301423.10.10"
+        },
+        {
+          "category": "MN",
           "material": "13388015",
           "description": "CABLE:POWER;ELEC; INSTR CABLE; 4PAIR",
           "qty": 100,
@@ -4993,19 +6405,11 @@
         },
         {
           "category": "MN",
-          "material": "13396119",
-          "description": "CABLE:POWER;ELECTRICAL; SWA; 4 CORE; 35",
-          "qty": 500,
+          "material": "15111731",
+          "description": "CABLE:ELEC;TECK 90;4C;350MCM;1KV;COPPER",
+          "qty": 200,
           "uom": "M",
-          "wbs": "C204325.10.20"
-        },
-        {
-          "category": "N/A",
-          "material": "15111649",
-          "description": "CABLE, POWER, ELECTRICAL;STRANDED; 2",
-          "qty": 1,
-          "uom": "ROU",
-          "wbs": "C300621.10.10"
+          "wbs": "C201124.10.10"
         },
         {
           "category": "N/A",
@@ -5049,8 +6453,586 @@
         }
       ]
     },
+    "5162001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4506650516_20",
+          "description": "150KV Disconnecting Switch complete with",
+          "qty": 3,
+          "uom": "JG",
+          "wbs": "C300520.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4508800569_10",
+          "description": "Anti Collision Sensor CASGPS for Light V",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "C600122.10"
+        },
+        {
+          "category": "PO",
+          "material": "4510014559_10",
+          "description": "Local Control Panel Assembly",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C200320.10.20.4000"
+        },
+        {
+          "category": "PO",
+          "material": "4510510751_10",
+          "description": "PIG SIGNALLER / INDICATOR WITH SPECIFIC",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C500722.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511397962_10",
+          "description": "D#3 MD LOW SPEED COUPLING FULL SET",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512427607_10",
+          "description": "Allen Bradley PanelView Plus 7 Graphic",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C301028.01.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512496997_20",
+          "description": "FIBERFRAX TAPE 60mm WIDE x 3mm THK, 25m",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200425.10.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_10",
+          "description": "NOTIFIER NFN-GW-EM3",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_20",
+          "description": "NOTIFIER NFS-320E",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_30",
+          "description": "NOTIFIER NBG-12LX",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_40",
+          "description": "NOTIFIER P2RL",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_50",
+          "description": "NOTIFIER SSM24-6",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_60",
+          "description": "NOTIFIER FST/951",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_70",
+          "description": "NOTIFIER FCM-1-CH",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_80",
+          "description": "Battery 12 V -? 18 AH sealed acid",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4512584480_90",
+          "description": "M4T32-BR12SH6",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C301121.01.11"
+        },
+        {
+          "category": "PO",
+          "material": "4513004214_10",
+          "description": "Cable Gland; cable type Steel Wire Armou",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4513004214_30",
+          "description": "Cable Gland; cable type Steel Wire Armou",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4513004214_40",
+          "description": "Raychem RRPL A1/A2 16 L Cable Gland;",
+          "qty": 30,
+          "uom": "EA",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4513004214_50",
+          "description": "Raychem RRPL A1/A2 25 S Cable Gland;",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4513004214_70",
+          "description": "Panduit Wire Way 50W x 100H c/w cover",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4513088045_10",
+          "description": "HOSE ASSEMBLY, METALLIC;STAINLESS STEEL;",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "MN",
+          "material": "15086675",
+          "description": "FLANGE, PIPE;RAISED FACE; 6IN; SLIP ON;",
+          "qty": 12,
+          "uom": "EA",
+          "wbs": "C300415.01.02.0001"
+        },
+        {
+          "category": "MN",
+          "material": "15086675",
+          "description": "FLANGE, PIPE;RAISED FACE; 6IN; SLIP ON;",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C204324.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086675",
+          "description": "FLANGE, PIPE;RAISED FACE; 6IN; SLIP ON;",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C500722.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086675",
+          "description": "FLANGE, PIPE;RAISED FACE; 6IN; SLIP ON;",
+          "qty": 30,
+          "uom": "EA",
+          "wbs": "C302723.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086675",
+          "description": "FLANGE, PIPE;RAISED FACE; 6IN; SLIP ON;",
+          "qty": 14,
+          "uom": "EA",
+          "wbs": "C700122.70.61"
+        },
+        {
+          "category": "MN",
+          "material": "15086676",
+          "description": "FLANGE, PIPE;RAISED FACE; 8IN; SLIP ON;",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C400521.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086676",
+          "description": "FLANGE, PIPE;RAISED FACE; 8IN; SLIP ON;",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C700122.70.61"
+        },
+        {
+          "category": "MN",
+          "material": "15086676",
+          "description": "FLANGE, PIPE;RAISED FACE; 8IN; SLIP ON;",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "X101005.EA.ME"
+        },
+        {
+          "category": "MN",
+          "material": "15086676",
+          "description": "FLANGE, PIPE;RAISED FACE; 8IN; SLIP ON;",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C700122.70.30"
+        },
+        {
+          "category": "MN",
+          "material": "15086678",
+          "description": "FLANGE, PIPE;RAISED FACE; 12IN; SLIP ON;",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15086678",
+          "description": "FLANGE, PIPE;RAISED FACE; 12IN; SLIP ON;",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C500722.10"
+        }
+      ]
+    },
+    "5130001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4506671724_100",
+          "description": "Vivotek AM-718 Waterproof Junction Box",
+          "qty": 16,
+          "uom": "EA",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4506671724_50",
+          "description": "\"VIVOTEK ND9424P-v2 H.265 16-CH Embedded",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4506671724_60",
+          "description": "AM-611 Mounting Ear Bracket for NVR",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4507533141_10",
+          "description": "CORIOLIS FLOW & DENSITY METER; MICROMOTI",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C200520.10.10.4000"
+        },
+        {
+          "category": "PO",
+          "material": "4507742806_10",
+          "description": "COUPLING:CLAMP;PIPE; TYPE:GROOVE END; WO",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C700122.30.60"
+        },
+        {
+          "category": "PO",
+          "material": "4508495016_10",
+          "description": "LETSA Street Solar Light (Single Orn)",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C100422.10.17"
+        },
+        {
+          "category": "PO",
+          "material": "4509527082_80",
+          "description": "BOLT:U; TYPE: LONG TANGENT; FOR PIPE 3 I",
+          "qty": 150,
+          "uom": "EA",
+          "wbs": "C700122.50.20"
+        },
+        {
+          "category": "PO",
+          "material": "4509527082_90",
+          "description": "BOLT:U; TYPE: LONG TANGENT; FOR PIPE 4 I",
+          "qty": 150,
+          "uom": "EA",
+          "wbs": "C700122.50.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511504368_130",
+          "description": "Cable Ladder Splice Plates; complete",
+          "qty": 500,
+          "uom": "EA",
+          "wbs": "C200320.10.10.3000"
+        },
+        {
+          "category": "PO",
+          "material": "4511504368_150",
+          "description": "Vertikal Adj. Splice Ladder; complete",
+          "qty": 150,
+          "uom": "EA",
+          "wbs": "C200320.10.10.3000"
+        },
+        {
+          "category": "PO",
+          "material": "4511504368_160",
+          "description": "16 Sqmm yellow green copper bonding,",
+          "qty": 250,
+          "uom": "EA",
+          "wbs": "C200320.10.10.3000"
+        },
+        {
+          "category": "PO",
+          "material": "4511802847_10",
+          "description": "INFORMA MAINE MEJA KANTOR 120x60x75 cm C",
+          "qty": 8,
+          "uom": "EA",
+          "wbs": "C200225.30.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4511921983_10",
+          "description": "Informa London Z Kursi Bar - Hitam",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
+        },
+        {
+          "category": "PO",
+          "material": "4511921983_20",
+          "description": "Informa Meja Tamu Martian - Abu-abu",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_10",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (12",
+          "qty": 10,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_20",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (12",
+          "qty": 6,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_30",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (12",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_40",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (7.",
+          "qty": 30,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_50",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (7.",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_60",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (7.",
+          "qty": 15,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_70",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (7.",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_80",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (7.",
+          "qty": 15,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512110293_90",
+          "description": "RAYCHEM HEAT SHRINK TERMINATION KIT (7.",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512122020_70",
+          "description": "Informa Gallant Meja Kantor - Putih (Inf",
+          "qty": 25,
+          "uom": "EA",
+          "wbs": "C400228.02"
+        },
+        {
+          "category": "PO",
+          "material": "4512185400_10",
+          "description": "VERTICAL CLAMP PLATE 1/16-1 GRIP",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C204325.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512238437_10",
+          "description": "SLING BELT 10 TON X 8 METER : Technotex",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C204325.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512238437_20",
+          "description": "SLING BELT 12 TON X 8 METER : Technotex",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C204325.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512238437_30",
+          "description": "SLING BELT 16 TON X 8 METER : Technotex",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C204325.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512326185_10",
+          "description": "DIA-FLO STRAIGHTWAY DIAPHRAGM VALVE: 4IN",
+          "qty": 3,
+          "uom": "JG",
+          "wbs": "C200225.30.60"
+        },
+        {
+          "category": "PO",
+          "material": "4512326185_20",
+          "description": "DIA-FLO STRAIGHTWAY DIAPHRAGM VALVE: 6IN",
+          "qty": 3,
+          "uom": "JG",
+          "wbs": "C200225.30.60"
+        },
+        {
+          "category": "PO",
+          "material": "4512340804_10",
+          "description": "Local Control Station stainless steel N",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C203423.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512354372_10",
+          "description": "Lighting Solar Panel",
+          "qty": 5,
+          "uom": "JG",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512491444_10",
+          "description": "EagleBurgmann Fabric Expansion Joint",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200425.10.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512889508_10",
+          "description": "125VDC Distribution Panel\n",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300123.20.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512889508_20",
+          "description": "220VAC UPS Distribution Panel",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300123.20.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "15098951",
+          "description": "HOLDER, ROLLER;TYPE J; SERIES H; BRACKET",
+          "qty": 26,
+          "uom": "EA",
+          "wbs": "C700122.30.60"
+        },
+        {
+          "category": "MN",
+          "material": "15094328",
+          "description": "GASKET MATERIAL;GRAFOIL; GH-E TYPE; 1M",
+          "qty": 9,
+          "uom": "PC",
+          "wbs": "SIDB300817.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "15115982",
+          "description": "TREAD, STAIR;WT4 EX; 1-1/2 X 3/16IN;",
+          "qty": 25,
+          "uom": "EA",
+          "wbs": "C700122.30.61"
+        }
+      ]
+    },
     "5101001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -5191,7 +7173,7 @@
         {
           "category": "PO",
           "material": "4511667507_10",
-          "description": "Automatic air vent 2",
+          "description": "Automatic air vent 2\"",
           "qty": 7,
           "uom": "EA",
           "wbs": "C301924.10.91.1000"
@@ -5254,13 +7236,34 @@
         }
       ]
     },
+    "5125001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4506989197_10",
+          "description": "1 mm THK MS SHEET, ANCHOR TEMPLATE TYPE",
+          "qty": 3,
+          "uom": "SHT",
+          "wbs": "C700122.40.91"
+        },
+        {
+          "category": "PO",
+          "material": "4507710886_10",
+          "description": "Bar Round Metal  Solid 1/2in Dia, 12-ft",
+          "qty": 5,
+          "uom": "EA",
+          "wbs": "C700122.40.91"
+        }
+      ]
+    },
     "5117001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4507049409_40",
-          "description": "BOLT, 3/4 UNC, 3 LONG, ASTM A325, GALV",
+          "description": "BOLT, 3/4\" UNC, 3\" LONG, ASTM A325, GALV",
           "qty": 170,
           "uom": "EA",
           "wbs": "C200225.30.91"
@@ -5268,7 +7271,7 @@
         {
           "category": "PO",
           "material": "4507049409_50",
-          "description": "NUT, 3/4 UNC, ASTM A325, GALVANIZED",
+          "description": "NUT, 3/4\" UNC, ASTM A325, GALVANIZED",
           "qty": 170,
           "uom": "EA",
           "wbs": "C200225.30.91"
@@ -5276,7 +7279,7 @@
         {
           "category": "PO",
           "material": "4507049409_60",
-          "description": "WASHER, 3/4 UNC, ASTM A325, GALVANIZED",
+          "description": "WASHER, 3/4\" UNC, ASTM A325, GALVANIZED",
           "qty": 170,
           "uom": "EA",
           "wbs": "C200225.30.91"
@@ -5284,7 +7287,7 @@
       ]
     },
     "5601003001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -5296,11 +7299,11 @@
         },
         {
           "category": "PO",
-          "material": "4509868428_10",
-          "description": "Low Voltage Cable, 15 Cores, 1.5 mm2",
-          "qty": 920,
+          "material": "4509905333_90",
+          "description": "CABLE ARMOUR, 2C + E - 16mm  SWA ; 0.6/1",
+          "qty": 600,
           "uom": "M",
-          "wbs": "C202921.10.10"
+          "wbs": "C200320.10.10.3000"
         },
         {
           "category": "PO",
@@ -5392,6 +7395,14 @@
         },
         {
           "category": "MN",
+          "material": "15159797",
+          "description": "CORD:ELEC;STP;CAT 5E;300V;24AWG;1000FT",
+          "qty": 1,
+          "uom": "PAC",
+          "wbs": "C301923.10.50"
+        },
+        {
+          "category": "MN",
           "material": "13393224",
           "description": "CABLE:POWER;ELEC; INSTR CABLE; 2PAIR",
           "qty": 200,
@@ -5425,7 +7436,7 @@
       ]
     },
     "5601005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -5447,7 +7458,7 @@
           "category": "PO",
           "material": "4511076892_30",
           "description": "CABLE ARMOUR, 2C + E - 4mm  SWA ; 0.6/1",
-          "qty": 2000,
+          "qty": 1800,
           "uom": "M",
           "wbs": "C200320.10.10.1000"
         },
@@ -5455,7 +7466,7 @@
           "category": "PO",
           "material": "4511294141_10",
           "description": "Multimode FO cable",
-          "qty": 6,
+          "qty": 5,
           "uom": "ROU",
           "wbs": "C300322.10.10"
         },
@@ -5479,7 +7490,7 @@
           "category": "PO",
           "material": "4512291597_10",
           "description": "Cable; CU/XLPE/CWS/AWA/PVC-FR; 1 Core; 5",
-          "qty": 2000,
+          "qty": 2500,
           "uom": "M",
           "wbs": "C302723.10.10"
         },
@@ -5514,6 +7525,30 @@
           "qty": 50,
           "uom": "M",
           "wbs": "C300520.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "15111655",
+          "description": "EL PWR CB 600V 16AWG",
+          "qty": 100,
+          "uom": "M",
+          "wbs": "R204220.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 230,
+          "uom": "M",
+          "wbs": "C201120.10.10.3000"
+        },
+        {
+          "category": "MN",
+          "material": "15111700",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 1000,
+          "uom": "M",
+          "wbs": "C500221.10.10"
         },
         {
           "category": "MN",
@@ -5557,6 +7592,14 @@
         },
         {
           "category": "MN",
+          "material": "13395717",
+          "description": "CABLE:POWER;ELEC; SWA; 15 CORE; 1.5 SQMM",
+          "qty": 1000,
+          "uom": "M",
+          "wbs": "C301025.10.10"
+        },
+        {
+          "category": "MN",
           "material": "15111710",
           "description": "CABLE, POWER, ELECTRICAL;TECK 90; 12",
           "qty": 250,
@@ -5567,7 +7610,7 @@
           "category": "MN",
           "material": "15111725",
           "description": "CABLE:ELEC;TECK 90;4C;10AWG;1KV;COPPER",
-          "qty": 270,
+          "qty": 260,
           "uom": "M",
           "wbs": "C700122.70.36"
         },
@@ -5605,14 +7648,6 @@
         },
         {
           "category": "N/A",
-          "material": "4511437916_10",
-          "description": "CABLE:POWER;ELECTRICAL; TECK 90; 15 CORE",
-          "qty": 1000,
-          "uom": "M",
-          "wbs": "202405603900"
-        },
-        {
-          "category": "N/A",
           "material": "4511716821_30",
           "description": "CABLE ARMOUR, 3 CORE 120MMSQ + E 70MMSQ;",
           "qty": 100,
@@ -5622,7 +7657,7 @@
       ]
     },
     "5104001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -5707,7 +7742,7 @@
       ]
     },
     "5123001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -5716,14 +7751,6 @@
           "qty": 4,
           "uom": "JG",
           "wbs": "C300520.10.10.1000"
-        },
-        {
-          "category": "PO",
-          "material": "4507743117_10",
-          "description": "Variable Speed Drive for Kiln 1_Primary",
-          "qty": 0.5,
-          "uom": "JG",
-          "wbs": "C204421.10.10"
         },
         {
           "category": "PO",
@@ -5920,7 +7947,7 @@
       ]
     },
     "5153001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6020,14 +8047,6 @@
         },
         {
           "category": "PO",
-          "material": "4510506618_20",
-          "description": "170 kV SF6 Dead Tank Circuit Breaker 3 P",
-          "qty": 0.3,
-          "uom": "EA",
-          "wbs": "C301823.10.10"
-        },
-        {
-          "category": "PO",
           "material": "4510517467_70",
           "description": "SBM-068-03-12-L; ROLLER",
           "qty": 60,
@@ -6096,20 +8115,281 @@
           "description": "BPA-4BC2-6NNN-VGN ACC",
           "qty": 1,
           "uom": "CRT",
-          "wbs": ""
+          "wbs": "C700122.50.20"
+        }
+      ]
+    },
+    "5133001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4507733818_10",
+          "description": "OVERHEAD CRANE; SINGLE GIRDER; SWL 10 TO",
+          "qty": 0.1,
+          "uom": "JG",
+          "wbs": "C500221.10.30"
         },
         {
-          "category": "N/A",
-          "material": "15076651",
-          "description": "4507565735_10_ACTUATOR;220V; 50HZ; 4-20MA; POS N FEED",
+          "category": "PO",
+          "material": "4510818107_10",
+          "description": "Industrial Rectifier Charger, c/w Batter",
+          "qty": 0.2,
+          "uom": "JG",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4511201137_100",
+          "description": "Wire mesh cable tray c/w joiner & hanger",
+          "qty": 0.5,
+          "uom": "EA",
+          "wbs": "C301824.01.01"
+        },
+        {
+          "category": "PO",
+          "material": "4511626454_10",
+          "description": "Flowserve MOV Control Valve",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300224.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511637505_10",
+          "description": "VESSEL BLOW POT FURNACE :",
+          "qty": 2,
+          "uom": "JG",
+          "wbs": "C206523.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511984234_10",
+          "description": "Disconnect/Safety Switch 200A -",
+          "qty": 7,
+          "uom": "EA",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512132981_10",
+          "description": "Three-Phase Gang Operated",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C301824.01.01"
+        },
+        {
+          "category": "PO",
+          "material": "4512267667_10",
+          "description": "6\" Screw Type Adjustable Valve Box",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C500522.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512267678_20",
+          "description": "6 Gate Valve Cast Iron",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C500522.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512340373_20",
+          "description": "PRE-ASSEMBLY LOCAL CONTROL STATION FOR L",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C204623.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512340373_30",
+          "description": "PRE-ASSEMBLY LOCAL CONTROL STATION FOR L",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C204623.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512491537_10",
+          "description": "Combination Non-Reversing Starter",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C200425.10.10.30"
+        },
+        {
+          "category": "PO",
+          "material": "4512515416_80",
+          "description": "BOLT, HEAVY HEX, 7/8 UNC x 4 LG, ASTM",
+          "qty": 324,
+          "uom": "JG",
+          "wbs": "C200425.10.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_10",
+          "description": "DISCONNECT SWITCH 60 AMP, NON FUSED, STA",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_100",
+          "description": "- 3 EA LABEL/NAME PLATE 50mm X 20mm AS",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_20",
+          "description": "DISCONNECT SWITCH 200 AMP, NON FUSED, ST",
           "qty": 1,
           "uom": "EA",
-          "wbs": ""
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_30",
+          "description": "INTERLOCK SPDT AUXILLIARY SWITCH 1NO-1NC",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_40",
+          "description": "INTERLOCK SPDT AUXILLIARY SWITCH 1NO-1NC",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_50",
+          "description": "NAME PLATE 90mm X 35mm; PRE-ASSEMBLED O",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_60",
+          "description": "PUSH BUTTON STATION, 3-HOLE, SS, CAT NO:",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_70",
+          "description": "SELECTOR SWITCH, 2 POS 2NO/2NC, CAT NO:",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_80",
+          "description": "PUSH BUTTON, 2NO/2NC, CAT NO: 800H-AR1B",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512550705_90",
+          "description": "PUSH BUTTON, 1 NCLB CAT NO: 800H-FRXT6D",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512573306_10",
+          "description": "Plug-In terminations up to 42kV, Raychem",
+          "qty": 8,
+          "uom": "JG",
+          "wbs": "C301025.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512573306_20",
+          "description": "Splicing Lug Copper Compression, Reduce",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C301025.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512641306_10",
+          "description": "Semen Bentonite for Grounding ; @25 kg",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C703223.10.40"
+        },
+        {
+          "category": "PO",
+          "material": "4513055250_10",
+          "description": "90 Deg Outside Riser Cable Ladder; L-30",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4513055250_20",
+          "description": "Cable Ladder Splice Plates;",
+          "qty": 50,
+          "uom": "JG",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4513055250_30",
+          "description": "Horizontal Adj. Splice Ladder;",
+          "qty": 12,
+          "uom": "JG",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4513055250_40",
+          "description": "Vertical Adj. Splice Ladder;",
+          "qty": 8,
+          "uom": "JG",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "PO",
+          "material": "4513055250_50",
+          "description": "16sqmm yellow green copper bonding,",
+          "qty": 70,
+          "uom": "EA",
+          "wbs": "C300520.10.10.2000"
+        },
+        {
+          "category": "MN",
+          "material": "15116562",
+          "description": "SEALING COMPOUND;SIKATOP SEAL 107",
+          "qty": 25,
+          "uom": "JG",
+          "wbs": "C200620.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "70304091",
+          "description": "FAN:CENT;ATOX MILL 25.0 AIR SEALING;CCP",
+          "qty": 1,
+          "uom": "UN",
+          "wbs": "C207223.10.20"
         }
       ]
     },
     "5601001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6209,6 +8489,14 @@
         },
         {
           "category": "MN",
+          "material": "13396119",
+          "description": "CABLE:POWER;ELECTRICAL; SWA; 4 CORE; 35",
+          "qty": 200,
+          "uom": "M",
+          "wbs": "C400228.02"
+        },
+        {
+          "category": "MN",
           "material": "15111702",
           "description": "CABLE:ELEC;TECK 90;3CORE;12AWG;600V",
           "qty": 350,
@@ -6226,7 +8514,7 @@
       ]
     },
     "5601017001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6267,11 +8555,35 @@
           "qty": 1000,
           "uom": "M",
           "wbs": "C301425.10.20.2221"
+        },
+        {
+          "category": "MN",
+          "material": "13393219",
+          "description": "CABLE:POWER;ELEC; SWA; 4 CORE; 240 SQMM",
+          "qty": 30,
+          "uom": "M",
+          "wbs": "R100007.30"
+        },
+        {
+          "category": "MN",
+          "material": "13393219",
+          "description": "CABLE:POWER;ELEC; SWA; 4 CORE; 240 SQMM",
+          "qty": 220,
+          "uom": "M",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "13393387",
+          "description": "CABLE:POWER;ELEC; SWA; 4 CORE; 70 SQMM",
+          "qty": 500,
+          "uom": "M",
+          "wbs": "C200320.10.10.1000"
         }
       ]
     },
     "5601021001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6395,6 +8707,14 @@
         },
         {
           "category": "MN",
+          "material": "15111730",
+          "description": "CTRL CABLE 1000V 120MM2 4CND B",
+          "qty": 50,
+          "uom": "M",
+          "wbs": "X400620.10.10.3000"
+        },
+        {
+          "category": "MN",
           "material": "16214280",
           "description": "CABLE:FO;MULTIMODE 50/125 OM2;4 FIBER",
           "qty": 1900,
@@ -6436,7 +8756,7 @@
       ]
     },
     "5604003001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6496,11 +8816,11 @@
         },
         {
           "category": "MN",
-          "material": "70145479",
-          "description": "SCRAPER:CONV;PRE-CLEANER;QC#1;36IN",
-          "qty": 1,
-          "uom": "JG",
-          "wbs": "C201321.10.10.1000"
+          "material": "15080044",
+          "description": "FRAME:RLR;CONV;1200MM BW;15413-1219-3524",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C100219.01.02"
         },
         {
           "category": "MN",
@@ -6509,14 +8829,6 @@
           "qty": 148,
           "uom": "EA",
           "wbs": "C700122.30.60"
-        },
-        {
-          "category": "MN",
-          "material": "15080044",
-          "description": "FRAME:RLR;CONV;1200MM BW;15413-1219-3524",
-          "qty": 20,
-          "uom": "EA",
-          "wbs": "C100219.01.02"
         },
         {
           "category": "MN",
@@ -6562,17 +8874,25 @@
           "category": "MN",
           "material": "15080068",
           "description": "ROLLER-CVY:CAR-STEEL;D152;L430;BW48;1EA",
+          "qty": 50,
+          "uom": "EA",
+          "wbs": "C100219.01.02"
+        },
+        {
+          "category": "MN",
+          "material": "15080068",
+          "description": "ROLLER-CVY:CAR-STEEL;D152;L430;BW48;1EA",
           "qty": 116,
           "uom": "EA",
           "wbs": "C700122.30.60"
         },
         {
           "category": "MN",
-          "material": "15080068",
-          "description": "ROLLER-CVY:CAR-STEEL;D152;L430;BW48;1EA",
-          "qty": 50,
+          "material": "15080073",
+          "description": "ROLLER-CVY:RET-STEEL;D152;L1280;BW48;1EA",
+          "qty": 52,
           "uom": "EA",
-          "wbs": "C100219.01.02"
+          "wbs": "C700122.30.60"
         },
         {
           "category": "MN",
@@ -6584,11 +8904,11 @@
         },
         {
           "category": "MN",
-          "material": "15080073",
-          "description": "ROLLER-CVY:RET-STEEL;D152;L1280;BW48;1EA",
-          "qty": 52,
-          "uom": "EA",
-          "wbs": "C700122.30.60"
+          "material": "70145479",
+          "description": "SCRAPER:CONV;PRE-CLEANER;QC#1;36IN",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C201321.10.10.1000"
         },
         {
           "category": "MN",
@@ -6616,8 +8936,34 @@
         }
       ]
     },
+    "5001006011": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4508277542_10",
+          "description": "Self Drill Screw gauge#14 or 1/4\", 3\"lg",
+          "qty": 1000,
+          "uom": "EA",
+          "wbs": "Excess Material"
+        }
+      ]
+    },
+    "5001016011": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4508277542_10",
+          "description": "Self Drill Screw gauge#14 or 1/4\", 3\"lg",
+          "qty": 3358,
+          "uom": "EA",
+          "wbs": "Excess Material"
+        }
+      ]
+    },
     "5601009001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6701,6 +9047,14 @@
         },
         {
           "category": "PO",
+          "material": "4509926362_30",
+          "description": "Low Voltage Cable, 2 Cores, 2.5 mm2 + 1E",
+          "qty": 1000,
+          "uom": "M",
+          "wbs": "C204323.10"
+        },
+        {
+          "category": "PO",
           "material": "4509928840_20",
           "description": "SWA Cable 2 x 2,5 +2,5  mm2 0.6/1 kV",
           "qty": 250,
@@ -6727,7 +9081,7 @@
           "category": "PO",
           "material": "4511554418_10",
           "description": "LV Cable SWA 4 Core 2.5mmsq + E",
-          "qty": 1935,
+          "qty": 1635,
           "uom": "M",
           "wbs": "C300520.10.10.1000"
         },
@@ -6805,11 +9159,11 @@
         },
         {
           "category": "MN",
-          "material": "15111700",
-          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
-          "qty": 48,
+          "material": "15111724",
+          "description": "CABLE:ELEC;TECK 90;4C;2/0AWG;1KV;COPPER",
+          "qty": 30,
           "uom": "M",
-          "wbs": "C301519.10.10.3000"
+          "wbs": "C100721.30.10"
         },
         {
           "category": "N/A",
@@ -6862,7 +9216,7 @@
       ]
     },
     "5118008021": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6875,7 +9229,7 @@
       ]
     },
     "5150001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -6888,7 +9242,7 @@
         {
           "category": "PO",
           "material": "4509030389_10",
-          "description": "TEE-Y AW 6X4 RUCIKA",
+          "description": "TEE-Y AW 6\"X4\" RUCIKA",
           "qty": 10,
           "uom": "EA",
           "wbs": "C202522.10.10.1000"
@@ -6896,7 +9250,7 @@
         {
           "category": "PO",
           "material": "4509030389_20",
-          "description": "TEE-Y AW 4 RUCIKA",
+          "description": "TEE-Y AW 4\" RUCIKA",
           "qty": 10,
           "uom": "EA",
           "wbs": "C202522.10.10.1000"
@@ -6904,7 +9258,7 @@
         {
           "category": "PO",
           "material": "4509030389_30",
-          "description": "TEE-Y AW 2 RUCIKA",
+          "description": "TEE-Y AW 2\" RUCIKA",
           "qty": 10,
           "uom": "EA",
           "wbs": "C202522.10.10.1000"
@@ -7087,19 +9441,19 @@
         },
         {
           "category": "MN",
-          "material": "15080775",
-          "description": "AIR CONDITIONER;SPLIT;5PK;FLOOR STANDING",
-          "qty": 1,
-          "uom": "UN",
-          "wbs": "C201721.10.10"
-        },
-        {
-          "category": "MN",
           "material": "15083602",
           "description": "PIPE, METALLIC;5IN ID; 7IN OD; 1FT LG;",
           "qty": 5,
           "uom": "FT",
           "wbs": "C206423.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15080775",
+          "description": "AIR CONDITIONER;SPLIT;5PK;FLOOR STANDING",
+          "qty": 1,
+          "uom": "UN",
+          "wbs": "C201721.10.10"
         },
         {
           "category": "MN",
@@ -7127,29 +9481,8 @@
         }
       ]
     },
-    "5147001001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4509067109_10",
-          "description": "Furniture for Tanamalia and Police Camp",
-          "qty": 0.2,
-          "uom": "LS",
-          "wbs": "C700122.40.91"
-        },
-        {
-          "category": "PO",
-          "material": "4511704133_10",
-          "description": "Bico Pulverizer (Include Motor Base and",
-          "qty": 3,
-          "uom": "UN",
-          "wbs": "C100121.10.91"
-        }
-      ]
-    },
     "5122001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7235,7 +9568,7 @@
           "category": "N/A",
           "material": "4504513956_10",
           "description": "Caterpillar Monitoring Scoreboard P/N (3",
-          "qty": 5,
+          "qty": 2,
           "uom": "EA",
           "wbs": "SIDB300418.10.10.0001"
         },
@@ -7262,14 +9595,6 @@
           "qty": 3,
           "uom": "EA",
           "wbs": "SIDB201318.10.10.2000"
-        },
-        {
-          "category": "N/A",
-          "material": "4503089487_10",
-          "description": "Stainless Steel 316 Enclosures; NEMA 4X;",
-          "qty": 4,
-          "uom": "EA",
-          "wbs": "SIDB101315.02.01.0003.01"
         },
         {
           "category": "N/A",
@@ -7382,176 +9707,19 @@
           "qty": 36,
           "uom": "EA",
           "wbs": "CIDB210118.06.01.0001"
-        }
-      ]
-    },
-    "5146001001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4509173399_10",
-          "description": "CONCENTRIC REDUCER 16x14 STD. WT., BWE",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0001"
         },
         {
-          "category": "PO",
-          "material": "4509173399_20",
-          "description": "ECCENTRIC REDUCER 20x14 STD. WT., BWE,",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0001"
-        },
-        {
-          "category": "PO",
-          "material": "4509232375_10",
-          "description": "GASKET 16 ANSI B16.5 CLASS 150 FULL",
-          "qty": 12,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0001"
-        },
-        {
-          "category": "PO",
-          "material": "4509232375_20",
-          "description": "GASKET 14 ANSI B16.5 CLASS 150 FULL FAC",
-          "qty": 10,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0001"
-        },
-        {
-          "category": "PO",
-          "material": "4509232375_30",
-          "description": "GASKET 12 ANSI B16.5 CLASS 150 FULL",
+          "category": "N/A",
+          "material": "4503089487_20",
+          "description": "Stainless Steel 316 Enclosures; NEMA 4X; 6.00IN H x 4.00IN W x 4.00IN D",
           "qty": 4,
           "uom": "EA",
-          "wbs": "C300415.01.02.0001"
-        },
-        {
-          "category": "PO",
-          "material": "4509232375_40",
-          "description": "GASKET 6 ANSI B16.5 CLASS 150 FULL FACE",
-          "qty": 12,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0001"
-        },
-        {
-          "category": "PO",
-          "material": "4509232375_50",
-          "description": "GASKET 3 ANSI B16.5 CLASS 150 FULL FACE",
-          "qty": 8,
-          "uom": "EA",
-          "wbs": "C300415.01.02.0001"
-        },
-        {
-          "category": "PO",
-          "material": "4509232375_60",
-          "description": "POLYKEN 1027 PRIMER, 1 GALLON TIN",
-          "qty": 13,
-          "uom": "CAN",
-          "wbs": "C300415.01.02.0001"
-        },
-        {
-          "category": "PO",
-          "material": "4509264485_20",
-          "description": "4 ELBOW 90 DEG, LR, SCH40/STD, SMLS, SS",
-          "qty": 20,
-          "uom": "EA",
-          "wbs": "C700122.40.91"
-        },
-        {
-          "category": "PO",
-          "material": "4509264485_30",
-          "description": "4 CAP, SCH40/STD, SMLS, SS304, ANSI/ASM",
-          "qty": 10,
-          "uom": "EA",
-          "wbs": "C700122.40.91"
-        },
-        {
-          "category": "PO",
-          "material": "4509264485_40",
-          "description": "1/4 PIPE FULL COUPLING, STD, FNPT, 1/2",
-          "qty": 600,
-          "uom": "EA",
-          "wbs": "C700122.40.91"
-        },
-        {
-          "category": "PO",
-          "material": "4509264485_50",
-          "description": "8 x 4 TEE RED:PIPE;  BUTT WELD; STD; C",
-          "qty": 12,
-          "uom": "EA",
-          "wbs": "C700122.40.91"
-        },
-        {
-          "category": "PO",
-          "material": "4509264485_60",
-          "description": "8 X 4 REDUCER:PIPE; CONCENTRIC;",
-          "qty": 8,
-          "uom": "EA",
-          "wbs": "C700122.40.91"
-        },
-        {
-          "category": "PO",
-          "material": "4511406237_10",
-          "description": "ZKTeco Tripod Turnstile Gate",
-          "qty": 4,
-          "uom": "EA",
-          "wbs": "G801723.00.01"
-        },
-        {
-          "category": "PO",
-          "material": "4511406237_20",
-          "description": "Gallagher Controller 6000 (C300100)",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "G801723.00.01"
-        },
-        {
-          "category": "PO",
-          "material": "4511406237_30",
-          "description": "Panasonic LC-R127R2NA 12V 7.2Ah Recharg",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "G801723.00.01"
-        },
-        {
-          "category": "PO",
-          "material": "4512231387_10",
-          "description": "Automatic Transfer Switch 1 phase",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "C600224.10.50"
-        },
-        {
-          "category": "PO",
-          "material": "4512231387_20",
-          "description": "Battery Charger for battery Genset",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "C600224.10.50"
-        },
-        {
-          "category": "PO",
-          "material": "4512559454_10",
-          "description": "5496730; RUBBER",
-          "qty": 30,
-          "uom": "M",
-          "wbs": "Excess Material"
-        },
-        {
-          "category": "PO",
-          "material": "4512559454_20",
-          "description": "5496630; RUBBER",
-          "qty": 15,
-          "uom": "M",
-          "wbs": "Excess Material"
+          "wbs": "SIDB101315.02.01.0003.01"
         }
       ]
     },
     "5105001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7643,8 +9811,101 @@
         }
       ]
     },
+    "5161001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4510178711_10",
+          "description": "ProSite LED Floodlight (F1 -models) - CE",
+          "qty": 13,
+          "uom": "EA",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4510178711_20",
+          "description": "SafeSite Bulkhead Pole Mount Zone 1, Cl",
+          "qty": 15,
+          "uom": "EA",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4510926252_10",
+          "description": "Complete set of Extended Mast Terminal",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C300322.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511008370_20",
+          "description": "Power Distribution Board",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C200225.50.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511440614_10",
+          "description": "AIR RECEIVER: DIMENSION: OD 16 X 4'-2",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C207423.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511440614_30",
+          "description": "AIR RECEIVER: DIMENSION: OD 16 X 4'-2",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C207423.10.30"
+        },
+        {
+          "category": "PO",
+          "material": "4511722349_10",
+          "description": "CABLE GLAND WGN 636 Overal diameter 63-6",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C203423.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511722349_20",
+          "description": "CABLE GLAND WGN 206 Overal diameter 16.6",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C203423.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511916874_10",
+          "description": "Informa Kimi Sofa Fabric 2 Seater - Krem",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
+        },
+        {
+          "category": "PO",
+          "material": "4511916874_100",
+          "description": "Sunon Rachel Kursi Tamu Kantor Serbaguna",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
+        },
+        {
+          "category": "PO",
+          "material": "4511916874_30",
+          "description": "Nordia Alden Sofa Fabric 2 Seater - Krem",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
+        }
+      ]
+    },
     "5610001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7673,7 +9934,7 @@
         {
           "category": "PO",
           "material": "4511120311_80",
-          "description": "EXPANDED METAL 1 1/2 NO. 6 (0.198 THK)",
+          "description": "EXPANDED METAL 1 1/2\" NO. 6 (0.198\" THK)",
           "qty": 2,
           "uom": "EA",
           "wbs": "C200225.30.80"
@@ -7714,15 +9975,15 @@
           "category": "MN",
           "material": "15117650",
           "description": "PLATE:MTL;12.7X1524X3048MM;G3101-SS400",
-          "qty": 1,
+          "qty": 2,
           "uom": "PC",
-          "wbs": "C200225.30.80"
+          "wbs": "C102124.20.10"
         },
         {
           "category": "MN",
           "material": "15117650",
           "description": "PLATE:MTL;12.7X1524X3048MM;G3101-SS400",
-          "qty": 3,
+          "qty": 2,
           "uom": "PC",
           "wbs": "C200225.30.71"
         },
@@ -7793,7 +10054,7 @@
       ]
     },
     "5608001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7814,7 +10075,7 @@
       ]
     },
     "5607001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7834,8 +10095,189 @@
         }
       ]
     },
+    "5601019001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4510419914_10",
+          "description": "Low Voltage Cable, 4C + E, 120 mm2, 0.6/",
+          "qty": 155,
+          "uom": "M",
+          "wbs": "C300720.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4511076125_30",
+          "description": "Cable; CU/XLPE/PVC/SWA/PVC",
+          "qty": 300,
+          "uom": "M",
+          "wbs": "C302123.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511322504_40",
+          "description": "LV Cable, 15 Cores, 2.5 mm2 + 1E (GROUND",
+          "qty": 250,
+          "uom": "M",
+          "wbs": "C300224.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511322504_50",
+          "description": "LV Cable, 2 Cores, 2.5 mm2 + 1E (GROUND)",
+          "qty": 300,
+          "uom": "M",
+          "wbs": "C300224.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511671231_10",
+          "description": "Power Cable Cu/XLPE/PVC/SWA/PVC; 2x4mmsq",
+          "qty": 500,
+          "uom": "M",
+          "wbs": "C701924.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511671231_20",
+          "description": "Power Cable Cu/XLPE/PVC/SWA/PVC; 2x10mms",
+          "qty": 500,
+          "uom": "M",
+          "wbs": "C701924.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511788683_10",
+          "description": "Aluminium Conductor Steel Reinforced",
+          "qty": 6000,
+          "uom": "M",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4511823387_10",
+          "description": "ADSS (All Dielectric Self Supporting)",
+          "qty": 5000,
+          "uom": "M",
+          "wbs": "C200225.20.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512291597_20",
+          "description": "Cable; CU/XLPE/PVC/SWA/PVC; 15 Core + E;",
+          "qty": 300,
+          "uom": "M",
+          "wbs": "C302723.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512381891_10",
+          "description": "Cable; CU/XLPE/PVC/SWA/PVC; 3 Core 50 mm",
+          "qty": 500,
+          "uom": "M",
+          "wbs": "C203923.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512381891_20",
+          "description": "Cable; CU/XLPE/PVC/SWA/PVC; 15 Core + E;",
+          "qty": 400,
+          "uom": "M",
+          "wbs": "C203923.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512433543_10",
+          "description": "Cable FO ADSS (Corning/CCSI) - ITU-T G.6",
+          "qty": 6000,
+          "uom": "M",
+          "wbs": "C200225.50.30.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512700073_10",
+          "description": "CABLE ARMOUR, 4C+ E # 6mm  SWA ; 0.6/1",
+          "qty": 350,
+          "uom": "M",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4512700073_20",
+          "description": "CABLE ARMOUR, 2C+ E # 4mm  SWA ; 0.6/1",
+          "qty": 350,
+          "uom": "M",
+          "wbs": "C201321.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "15111685",
+          "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
+          "qty": 150,
+          "uom": "M",
+          "wbs": "C500321.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111685",
+          "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
+          "qty": 150,
+          "uom": "M",
+          "wbs": "C500221.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111685",
+          "description": "RESISTANCE WIRE;1 CORE; 19/3.00MM2",
+          "qty": 600,
+          "uom": "M",
+          "wbs": "C204323.10"
+        },
+        {
+          "category": "MN",
+          "material": "15159797",
+          "description": "CORD:ELEC;STP;CAT 5E;300V;24AWG;1000FT",
+          "qty": 1,
+          "uom": "PAC",
+          "wbs": "C301824.01.01"
+        },
+        {
+          "category": "N/A",
+          "material": "4506320887_90",
+          "description": "CABLE, 15C & E 1.5mm2 SWA, 600V",
+          "qty": 1,
+          "uom": "ROU",
+          "wbs": "C201619.14.02.0001.02"
+        },
+        {
+          "category": "N/A",
+          "material": "4507198750_30",
+          "description": "Power Cable 3C CU 4mm2 +E XLPE/SWA/PVC;",
+          "qty": 300,
+          "uom": "M",
+          "wbs": "SIDB200418.01.01"
+        },
+        {
+          "category": "N/A",
+          "material": "4508092029_30",
+          "description": "CABLE ARMOURED (TECK) 1 PR 18 AWG,EXTN T",
+          "qty": 1,
+          "uom": "ROU",
+          "wbs": "C201619.14.02.0001.02"
+        },
+        {
+          "category": "N/A",
+          "material": "4507139588_40",
+          "description": "CABLE 4 PR 1.5mm2 SWA (EACH PAIR WITH",
+          "qty": 100,
+          "uom": "M",
+          "wbs": "C201619.15.02.0001.02"
+        }
+      ]
+    },
     "5601027001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7848,7 +10290,7 @@
       ]
     },
     "5001002021": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7860,8 +10302,245 @@
         }
       ]
     },
+    "5159001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4510517467_10",
+          "description": "SBM-005-06-10; ROLLER",
+          "qty": 133,
+          "uom": "EA",
+          "wbs": "C700122.30.61"
+        },
+        {
+          "category": "PO",
+          "material": "4511380696_10",
+          "description": "TEE:METALLIC; SEAMLESS; 8IN ID;  20FT LG",
+          "qty": 12,
+          "uom": "EA",
+          "wbs": "C200320.10.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4511385903_10",
+          "description": "For insulation",
+          "qty": 19,
+          "uom": "EA",
+          "wbs": "C700122.70.36"
+        },
+        {
+          "category": "PO",
+          "material": "4512126155_10",
+          "description": "Fin tube Heat exchanger type: 16 KDL",
+          "qty": 1,
+          "uom": "JG",
+          "wbs": "C302225.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512330597_10",
+          "description": "ABB General Electric MPA31W16",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C302225.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512330597_20",
+          "description": "ABB General Electric MPA31W08",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C302225.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512709661_20",
+          "description": "MCCB, 3Pole, 10kA, 40A, type QOB340",
+          "qty": 7,
+          "uom": "EA",
+          "wbs": "C208723.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512729441_10",
+          "description": "Street Pole Light, single arm with solar",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C300323.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512737912_10",
+          "description": "E300 Ethernet/IP Communication Module P/",
+          "qty": 40,
+          "uom": "EA",
+          "wbs": "X102008.BL.CM.C012"
+        },
+        {
+          "category": "PO",
+          "material": "4512737912_30",
+          "description": "E300 Sensing Modules 30 Ampere P/N 592-E",
+          "qty": 25,
+          "uom": "EA",
+          "wbs": "X102008.BL.CM.C012"
+        },
+        {
+          "category": "PO",
+          "material": "4512737912_50",
+          "description": "E300 Sensing Modules 60 Ampere P/N 592-E",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "X102008.BL.CM.C012"
+        },
+        {
+          "category": "PO",
+          "material": "4512737912_60",
+          "description": "E300 Control Modules 24VDC P/N 193-EIO-6",
+          "qty": 40,
+          "uom": "EA",
+          "wbs": "X102008.BL.CM.C012"
+        },
+        {
+          "category": "PO",
+          "material": "4512805016_10",
+          "description": "Retainer Frame for Lifter",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C200425.10.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512832144_10",
+          "description": "Rockmaster Hose SAE 100R12 XT3 3/4 x 8",
+          "qty": 10,
+          "uom": "M",
+          "wbs": "C200122.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512832144_20",
+          "description": "Rockmaster  Hydraulic Hose SAE 100 R12 1",
+          "qty": 20,
+          "uom": "M",
+          "wbs": "C200122.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512832144_30",
+          "description": "IVE FERRULE HIGH PRESSURE XT3 HOSE 1 IN",
+          "qty": 4,
+          "uom": "EA",
+          "wbs": "C200122.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512832144_40",
+          "description": "Rockmaster Hydraulic Hose SAE 100 R12 1",
+          "qty": 8,
+          "uom": "M",
+          "wbs": "C200122.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512836979_30",
+          "description": "AC2N1546; Coupling",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200122.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512837767_10",
+          "description": "3263569A FIRE SLEEVE",
+          "qty": 1000,
+          "uom": "CM",
+          "wbs": "C200122.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512870102_110",
+          "description": "WASHER, FLAT, 7/8, ASTM F844, GALVANISE",
+          "qty": 1440,
+          "uom": "EA",
+          "wbs": "C200425.10.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512870102_30",
+          "description": "THREADED ROD, 1 UNC, ASTM A307, GALVANI",
+          "qty": 25,
+          "uom": "JG",
+          "wbs": "C200425.10.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512870102_50",
+          "description": "THREADED ROD, 5/8 UNC, ASTM A307, GALVA",
+          "qty": 40,
+          "uom": "JG",
+          "wbs": "C200425.10.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512870102_80",
+          "description": "NUT, HEAVY HEX, 3/4 UNC, ASTM A563 GR.",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C200425.10.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512870102_90",
+          "description": "WASHER, FLAT, 3/4, ASTM F844, GALVANISE",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C200425.10.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4513081745_10",
+          "description": "Philips Master Led?tube?600mm 10W",
+          "qty": 92,
+          "uom": "EA",
+          "wbs": "C200620.10.10.3000"
+        },
+        {
+          "category": "MN",
+          "material": "15110954",
+          "description": "RESIDUAL CURRENT DEVICE;HEAVY DUTY;",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C201124.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15111699",
+          "description": "CABLE, POWER, ELECTRICAL;TECK 90; 2",
+          "qty": 150,
+          "uom": "M",
+          "wbs": "C300520.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "15098951",
+          "description": "HOLDER, ROLLER;TYPE J; SERIES H; BRACKET",
+          "qty": 20,
+          "uom": "EA",
+          "wbs": "C200225.20.10"
+        },
+        {
+          "category": "MN",
+          "material": "15104153",
+          "description": "RESIDUAL CURRENT DEVICE;400A; 3PH; 4W;",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C201121.10.10"
+        }
+      ]
+    },
     "5185007001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -7873,8 +10552,133 @@
         }
       ]
     },
+    "5160001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4510673542_10",
+          "description": "Oil-immersed Distribution Transformer",
+          "qty": 0.5,
+          "uom": "UN",
+          "wbs": "C100121.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4511152427_10",
+          "description": "Design : Disigned for dusty mining road",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C102024.10.08"
+        },
+        {
+          "category": "PO",
+          "material": "4511374008_10",
+          "description": "Street Solar Light (Single Arm) complete",
+          "qty": 3,
+          "uom": "LOT",
+          "wbs": "C301824.01.01"
+        },
+        {
+          "category": "PO",
+          "material": "4512099557_10",
+          "description": "Motor Control Center (MCC)",
+          "qty": 0.3,
+          "uom": "PC",
+          "wbs": "C300324.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512110031_10",
+          "description": "Low Voltage Power Distibution Board",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512110031_20",
+          "description": "Low Voltage Power Distibution Board,",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C100121.10.20"
+        },
+        {
+          "category": "PO",
+          "material": "4512133462_10",
+          "description": "Re-Closer 15kV 10kA with",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C301625.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512312237_10",
+          "description": "Fisher Control Valve",
+          "qty": 1,
+          "uom": "UN",
+          "wbs": "C202925.10.10"
+        },
+        {
+          "category": "PO",
+          "material": "4512865740_10",
+          "description": "LED Flood Light for Hazardous Area",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C300123.20.10.1000"
+        },
+        {
+          "category": "PO",
+          "material": "4513100877_10",
+          "description": "M20 X 70MM SOCKET COUNTERSUNK SCREWS",
+          "qty": 400,
+          "uom": "EA",
+          "wbs": "C200723.10"
+        },
+        {
+          "category": "PO",
+          "material": "4513100877_20",
+          "description": "M20 ? 39 MM OD ? 4.6 MM THK, WASHER,",
+          "qty": 400,
+          "uom": "EA",
+          "wbs": "C200723.10"
+        },
+        {
+          "category": "PO",
+          "material": "4513100877_30",
+          "description": "M20 NYLOC NUT STEEL BRIGHT ZINC PLATED",
+          "qty": 400,
+          "uom": "EA",
+          "wbs": "C200723.10"
+        },
+        {
+          "category": "PO",
+          "material": "4513100877_40",
+          "description": "LOCTITE LB 8009 Loctite",
+          "qty": 10,
+          "uom": "CAN",
+          "wbs": "C200723.10"
+        },
+        {
+          "category": "MN",
+          "material": "15159797",
+          "description": "CORD:ELEC;STP;CAT 5E;300V;24AWG;1000FT",
+          "qty": 6,
+          "uom": "PAC",
+          "wbs": "C300520.10.10.1000"
+        },
+        {
+          "category": "MN",
+          "material": "15081152",
+          "description": "CLOCKWISE BLOWER KIT;MODIFY ROTATION OF",
+          "qty": 1,
+          "uom": "LOT",
+          "wbs": "C206923.10.20"
+        }
+      ]
+    },
     "5616001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8063,7 +10867,7 @@
       ]
     },
     "5616003001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8108,7 +10912,7 @@
       ]
     },
     "5607005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8145,7 +10949,7 @@
       ]
     },
     "5607002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8246,7 +11050,7 @@
       ]
     },
     "5609002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8259,7 +11063,7 @@
       ]
     },
     "5614001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8307,15 +11111,7 @@
           "description": "PLATE:MTL;12.7X1524X3048MM;G3101-SS400",
           "qty": 2,
           "uom": "PC",
-          "wbs": "C200225.30.61"
-        },
-        {
-          "category": "MN",
-          "material": "15083533",
-          "description": "PIPE, METALLIC;STANDARD; 4IN ID; 20FT",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "C200225.30.20"
+          "wbs": "C102124.20.10"
         },
         {
           "category": "MN",
@@ -8336,7 +11132,7 @@
       ]
     },
     "5611002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8365,7 +11161,7 @@
       ]
     },
     "5611005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8410,7 +11206,7 @@
       ]
     },
     "5612002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8431,7 +11227,7 @@
       ]
     },
     "5616002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8508,7 +11304,7 @@
       ]
     },
     "5624001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8521,7 +11317,7 @@
       ]
     },
     "5612006001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8566,7 +11362,7 @@
       ]
     },
     "5615001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8635,7 +11431,7 @@
       ]
     },
     "5609001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8672,7 +11468,7 @@
       ]
     },
     "5149001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8692,24 +11488,24 @@
         },
         {
           "category": "N/A",
-          "material": "4507988825_10",
-          "description": "DISCONNECTING SWITCH; RESIDUAL CURRENT D",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "SIDB100621.10.10"
-        },
-        {
-          "category": "N/A",
           "material": "4506003485_10",
           "description": "Pulverized Coal Feed System",
           "qty": 1,
           "uom": "CRT",
           "wbs": "C300820.10.10.6000"
+        },
+        {
+          "category": "N/A",
+          "material": "4510851467_90",
+          "description": "12-11 x 65 HGS; FIXING TO STEEL SUPPORT",
+          "qty": 1,
+          "uom": "PLT",
+          "wbs": "C700122.60.10"
         }
       ]
     },
     "5810001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8722,7 +11518,7 @@
       ]
     },
     "5606001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8767,7 +11563,7 @@
       ]
     },
     "5001004031": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -8795,93 +11591,8 @@
         }
       ]
     },
-    "5601019001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511076125_30",
-          "description": "Cable; CU/XLPE/PVC/SWA/PVC",
-          "qty": 300,
-          "uom": "M",
-          "wbs": "C302123.10.10"
-        },
-        {
-          "category": "PO",
-          "material": "4511322504_40",
-          "description": "LV Cable, 15 Cores, 2.5 mm2 + 1E (GROUND",
-          "qty": 250,
-          "uom": "M",
-          "wbs": "C300224.20.10"
-        },
-        {
-          "category": "PO",
-          "material": "4511322504_50",
-          "description": "LV Cable, 2 Cores, 2.5 mm2 + 1E (GROUND)",
-          "qty": 300,
-          "uom": "M",
-          "wbs": "C300224.20.10"
-        },
-        {
-          "category": "PO",
-          "material": "4511326450_30",
-          "description": "Low Voltage Cable, 4 Cores, 35 mm2 + 1E",
-          "qty": 200,
-          "uom": "M",
-          "wbs": "C700122.90.10"
-        },
-        {
-          "category": "PO",
-          "material": "4511823387_10",
-          "description": "ADSS (All Dielectric Self Supporting)",
-          "qty": 5000,
-          "uom": "M",
-          "wbs": "C200225.20.10"
-        },
-        {
-          "category": "PO",
-          "material": "4512433543_10",
-          "description": "Cable FO ADSS (Corning/CCSI) - ITU-T G.6",
-          "qty": 6000,
-          "uom": "M",
-          "wbs": "C200225.50.30.1000"
-        },
-        {
-          "category": "N/A",
-          "material": "4506320887_90",
-          "description": "CABLE, 15C & E 1.5mm2 SWA, 600V",
-          "qty": 1,
-          "uom": "ROU",
-          "wbs": "C201619.14.02.0001.02"
-        },
-        {
-          "category": "N/A",
-          "material": "4507198750_30",
-          "description": "Power Cable 3C CU 4mm2 +E XLPE/SWA/PVC;",
-          "qty": 300,
-          "uom": "M",
-          "wbs": "SIDB200418.01.01"
-        },
-        {
-          "category": "N/A",
-          "material": "4508092029_30",
-          "description": "CABLE ARMOURED (TECK) 1 PR 18 AWG,EXTN T",
-          "qty": 1,
-          "uom": "ROU",
-          "wbs": "C201619.14.02.0001.02"
-        },
-        {
-          "category": "N/A",
-          "material": "4507139588_40",
-          "description": "CABLE 4 PR 1.5mm2 SWA (EACH PAIR WITH",
-          "qty": 100,
-          "uom": "M",
-          "wbs": "C201619.15.02.0001.02"
-        }
-      ]
-    },
     "5102001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9102,7 +11813,7 @@
       ]
     },
     "5616004001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9123,7 +11834,7 @@
       ]
     },
     "5145001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9196,11 +11907,27 @@
           "qty": 8,
           "uom": "EA",
           "wbs": "C200620.10.10.0000"
+        },
+        {
+          "category": "PO",
+          "material": "4511921973_70",
+          "description": "Sunon Neo Winger Kursi Kantor Sandaran R",
+          "qty": 37,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
+        },
+        {
+          "category": "PO",
+          "material": "4511921973_80",
+          "description": "Informa Rain Kabinet Kamar Mandi Dengan",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C200620.10.10.0000"
         }
       ]
     },
     "5001004001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9213,7 +11940,7 @@
       ]
     },
     "5609005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9226,13 +11953,13 @@
       ]
     },
     "5401060001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4511175407_30",
           "description": "Straight Section Cable Ladder W40CM",
-          "qty": 8,
+          "qty": 16,
           "uom": "EA",
           "wbs": "C700122.70.70"
         },
@@ -9247,12 +11974,12 @@
       ]
     },
     "5611003001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4511175644_10",
-          "description": "THREADED ROD, 1 1/2 UNC, ASTM A325, GAL",
+          "description": "THREADED ROD, 1 1/2\" UNC, ASTM A325, GAL",
           "qty": 1,
           "uom": "EA",
           "wbs": "C200225.30.30"
@@ -9284,7 +12011,7 @@
       ]
     },
     "5612003001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9297,7 +12024,7 @@
       ]
     },
     "5613006001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9334,7 +12061,7 @@
       ]
     },
     "5611001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9468,7 +12195,15 @@
           "category": "MN",
           "material": "15083534",
           "description": "PIPE, METALLIC;STANDARD; 6IN ID; 20FT",
-          "qty": 5,
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200127.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15083534",
+          "description": "PIPE, METALLIC;STANDARD; 6IN ID; 20FT",
+          "qty": 3,
           "uom": "EA",
           "wbs": "C200225.30.20"
         },
@@ -9491,7 +12226,7 @@
       ]
     },
     "5613002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9552,7 +12287,7 @@
       ]
     },
     "5615002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9622,14 +12357,14 @@
           "category": "PO",
           "material": "4511732511_10",
           "description": "HDPE PIPE; DN 180 (6); SDR 17; PN 10;",
-          "qty": 25,
+          "qty": 15,
           "uom": "EA",
           "wbs": "C100121.10.30"
         }
       ]
     },
     "5614003001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9642,7 +12377,7 @@
       ]
     },
     "5613001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9736,9 +12471,17 @@
           "category": "MN",
           "material": "15083530",
           "description": "PIPE, METALLIC;2IN ID; 20FT LG; NPT END;",
-          "qty": 3,
+          "qty": 1,
           "uom": "EA",
           "wbs": "C200225.30.91"
+        },
+        {
+          "category": "MN",
+          "material": "15083530",
+          "description": "PIPE, METALLIC;2IN ID; 20FT LG; NPT END;",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200127.10.10"
         },
         {
           "category": "MN",
@@ -9759,7 +12502,7 @@
       ]
     },
     "5608004001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9772,7 +12515,7 @@
       ]
     },
     "5185002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9817,20 +12560,33 @@
       ]
     },
     "5811002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4511318940_20",
           "description": "CONDUIT 1/2 FLEXIBLE STEEL, PVC COATED,",
-          "qty": 2370,
+          "qty": 30,
           "uom": "M",
           "wbs": "C200225.30.50"
         }
       ]
     },
+    "5185005001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511374008_10",
+          "description": "Street Solar Light (Single Arm) complete",
+          "qty": 3,
+          "uom": "LOT",
+          "wbs": "C301824.01.01"
+        }
+      ]
+    },
     "5614002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9867,7 +12623,7 @@
       ]
     },
     "5614006001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -9887,30 +12643,233 @@
         }
       ]
     },
-    "5159001001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511385903_10",
-          "description": "For insulation",
-          "qty": 19,
-          "uom": "EA",
-          "wbs": "C700122.70.36"
-        }
-      ]
-    },
-    "5607004001": {
-      "lastUpdate": "03Oct2026",
+    "Otuno": {
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
           "material": "4511421558_20",
           "description": "DN 225 HDPE PIPE  x 12M LGH ; PN 10 ; PE",
-          "qty": 2,
+          "qty": 1,
           "uom": "EA",
           "wbs": "X101005.EA.ME"
+        }
+      ]
+    },
+    "5609004001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511443063_20",
+          "description": "FLAT BAR, 3/4 THICK x 3 WIDE, ASTM A36",
+          "qty": 3,
+          "uom": "PC",
+          "wbs": "C200225.30.60"
         },
+        {
+          "category": "MN",
+          "material": "15117416",
+          "description": "BAR, METAL;FLAT; 6MM THK; 75MM W; 6M LG;",
+          "qty": 3,
+          "uom": "EA",
+          "wbs": "C200225.30.81"
+        },
+        {
+          "category": "MN",
+          "material": "15117419",
+          "description": "BAR, METAL;FLAT; 9MM THK; 50MM W; 6M LG;",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C200225.30.81"
+        },
+        {
+          "category": "MN",
+          "material": "15117420",
+          "description": "BAR, METAL;FLAT; 9MM THK; 75MM W; 6M LG;",
+          "qty": 10,
+          "uom": "EA",
+          "wbs": "C200225.30.81"
+        },
+        {
+          "category": "MN",
+          "material": "15117420",
+          "description": "BAR, METAL;FLAT; 9MM THK; 75MM W; 6M LG;",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200127.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15117427",
+          "description": "BAR, METAL;FLAT; 12MM THK; 150MM W; 6M",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200225.30.71"
+        }
+      ]
+    },
+    "5611006001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511465236_100",
+          "description": "PLATE, 19 GAUGE (1.1mm THK), SS304, 1.2m",
+          "qty": 20,
+          "uom": "PC",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "MN",
+          "material": "15117671",
+          "description": "PLATE, METAL;3/8IN THK; 4FT W; 8FT LG;",
+          "qty": 1,
+          "uom": "PC",
+          "wbs": "C200225.30.50"
+        }
+      ]
+    },
+    "5608002001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511465245_10",
+          "description": "PIPE, 50NB SCHEDULE 40, ASTM A106 GRADE",
+          "qty": 2,
+          "uom": "PC",
+          "wbs": "C200225.30.91"
+        }
+      ]
+    },
+    "5610006001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511465245_30",
+          "description": "PIPE, PLASTIC; 4 ID; 6M LG; PVC",
+          "qty": 5,
+          "uom": "PC",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "MN",
+          "material": "15117654",
+          "description": "PLATE:MTL;32X1524X3048MM;G3101-SS400",
+          "qty": 1,
+          "uom": "PC",
+          "wbs": "C200225.30.80"
+        }
+      ]
+    },
+    "5607003001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511478785_20",
+          "description": "BAR, FLAT, 65 x 6mm, ASTM A242, 6m LENGT",
+          "qty": 6,
+          "uom": "EA",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "PO",
+          "material": "4511574704_10",
+          "description": "ANGLE, UNEQUAL, 125 x 75 x 12mm, ASTM A3",
+          "qty": 7,
+          "uom": "PC",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "PO",
+          "material": "4511667247_20",
+          "description": "FLAT BAR, 100 x 6mm, ASTM A36, 6m LENGTH",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200225.30.91"
+        }
+      ]
+    },
+    "5611004001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511478785_20",
+          "description": "BAR, FLAT, 65 x 6mm, ASTM A242, 6m LENGT",
+          "qty": 11,
+          "uom": "EA",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "PO",
+          "material": "4511530914_50",
+          "description": "PLATE, 5mm THK, ASTM A240 SS316L, 1.22m",
+          "qty": 5,
+          "uom": "PC",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "PO",
+          "material": "4511586728_20",
+          "description": "PLATE, 1mm THK, STAINLESS STEEL 304, 1.5",
+          "qty": 3,
+          "uom": "PC",
+          "wbs": "C200225.30.91"
+        },
+        {
+          "category": "MN",
+          "material": "15117631",
+          "description": "PLATE, METAL;1/4IN THK; 4FT W; 8FT LG;",
+          "qty": 2,
+          "uom": "PC",
+          "wbs": "C200225.30.81"
+        }
+      ]
+    },
+    "5612005001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4511479044_20",
+          "description": "PIPE, 25NB, CARBON STEEL ASTM A106, SMLS",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200225.30.80"
+        },
+        {
+          "category": "PO",
+          "material": "4511617616_80",
+          "description": "PIPE, 150NB, CARBON STEEL ASTM A53,",
+          "qty": 2,
+          "uom": "EA",
+          "wbs": "C200225.30.20"
+        },
+        {
+          "category": "MN",
+          "material": "15117509",
+          "description": "SHEET, METAL;1/8IN THK; 5FT W; 10FT LG;",
+          "qty": 24,
+          "uom": "PC",
+          "wbs": "C200225.30.81"
+        },
+        {
+          "category": "MN",
+          "material": "15151321",
+          "description": "PLATE:METAL;SS;5FTX10FTX1/4IN;210HB",
+          "qty": 5,
+          "uom": "EA",
+          "wbs": "C200225.30.81"
+        }
+      ]
+    },
+    "5607004001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
         {
           "category": "PO",
           "material": "4511495195_10",
@@ -9953,211 +12912,8 @@
         }
       ]
     },
-    "5609004001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511443063_20",
-          "description": "FLAT BAR, 3/4 THICK x 3 WIDE, ASTM A36",
-          "qty": 3,
-          "uom": "PC",
-          "wbs": "C200225.30.60"
-        },
-        {
-          "category": "MN",
-          "material": "15117416",
-          "description": "BAR, METAL;FLAT; 6MM THK; 75MM W; 6M LG;",
-          "qty": 3,
-          "uom": "EA",
-          "wbs": "C200225.30.81"
-        },
-        {
-          "category": "MN",
-          "material": "15117419",
-          "description": "BAR, METAL;FLAT; 9MM THK; 50MM W; 6M LG;",
-          "qty": 6,
-          "uom": "EA",
-          "wbs": "C200225.30.81"
-        },
-        {
-          "category": "MN",
-          "material": "15117420",
-          "description": "BAR, METAL;FLAT; 9MM THK; 75MM W; 6M LG;",
-          "qty": 11,
-          "uom": "EA",
-          "wbs": "C200225.30.81"
-        },
-        {
-          "category": "MN",
-          "material": "15117427",
-          "description": "BAR, METAL;FLAT; 12MM THK; 150MM W; 6M",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "C200225.30.71"
-        }
-      ]
-    },
-    "5611006001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511465236_100",
-          "description": "PLATE, 19 GAUGE (1.1mm THK), SS304, 1.2m",
-          "qty": 20,
-          "uom": "PC",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "MN",
-          "material": "15117671",
-          "description": "PLATE, METAL;3/8IN THK; 4FT W; 8FT LG;",
-          "qty": 1,
-          "uom": "PC",
-          "wbs": "C200225.30.50"
-        }
-      ]
-    },
-    "5608002001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511465245_10",
-          "description": "PIPE, 50NB SCHEDULE 40, ASTM A106 GRADE",
-          "qty": 2,
-          "uom": "PC",
-          "wbs": "C200225.30.91"
-        }
-      ]
-    },
-    "5610006001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511465245_30",
-          "description": "PIPE, PLASTIC; 4 ID; 6M LG; PVC",
-          "qty": 5,
-          "uom": "PC",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "MN",
-          "material": "15117654",
-          "description": "PLATE:MTL;32X1524X3048MM;G3101-SS400",
-          "qty": 1,
-          "uom": "PC",
-          "wbs": "C200225.30.80"
-        }
-      ]
-    },
-    "5607003001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511478785_20",
-          "description": "BAR, FLAT, 65 x 6mm, ASTM A242, 6m LENGT",
-          "qty": 6,
-          "uom": "EA",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "PO",
-          "material": "4511574704_10",
-          "description": "ANGLE, UNEQUAL, 125 x 75 x 12mm, ASTM A3",
-          "qty": 7,
-          "uom": "PC",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "PO",
-          "material": "4511667247_20",
-          "description": "FLAT BAR, 100 x 6mm, ASTM A36, 6m LENGTH",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "C200225.30.91"
-        }
-      ]
-    },
-    "5611004001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511478785_20",
-          "description": "BAR, FLAT, 65 x 6mm, ASTM A242, 6m LENGT",
-          "qty": 11,
-          "uom": "EA",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "PO",
-          "material": "4511530914_50",
-          "description": "PLATE, 5mm THK, ASTM A240 SS316L, 1.22m",
-          "qty": 5,
-          "uom": "PC",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "PO",
-          "material": "4511586728_20",
-          "description": "PLATE, 1mm THK, STAINLESS STEEL 304, 1.5",
-          "qty": 3,
-          "uom": "PC",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "MN",
-          "material": "15117631",
-          "description": "PLATE, METAL;1/4IN THK; 4FT W; 8FT LG;",
-          "qty": 2,
-          "uom": "PC",
-          "wbs": "C200225.30.81"
-        }
-      ]
-    },
-    "5612005001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4511479044_20",
-          "description": "PIPE, 25NB, CARBON STEEL ASTM A106, SMLS",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "C200225.30.80"
-        },
-        {
-          "category": "PO",
-          "material": "4511617616_80",
-          "description": "PIPE, 150NB, CARBON STEEL ASTM A53,",
-          "qty": 2,
-          "uom": "EA",
-          "wbs": "C200225.30.20"
-        },
-        {
-          "category": "MN",
-          "material": "15117509",
-          "description": "SHEET, METAL;1/8IN THK; 5FT W; 10FT LG;",
-          "qty": 24,
-          "uom": "PC",
-          "wbs": "C200225.30.81"
-        },
-        {
-          "category": "MN",
-          "material": "15151321",
-          "description": "PLATE:METAL;SS;5FTX10FTX1/4IN;210HB",
-          "qty": 5,
-          "uom": "EA",
-          "wbs": "C200225.30.81"
-        }
-      ]
-    },
     "5614005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10186,7 +12942,7 @@
       ]
     },
     "5614004001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10199,7 +12955,7 @@
       ]
     },
     "5606004001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10212,7 +12968,7 @@
       ]
     },
     "5185001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10225,7 +12981,7 @@
       ]
     },
     "5609003001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10261,8 +13017,21 @@
         }
       ]
     },
+    "51": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "PO",
+          "material": "4512071824_10",
+          "description": "FUEL SKID UNIT CONSIST OF",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C100423.10.10"
+        }
+      ]
+    },
     "Unloading Point": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10299,7 +13068,7 @@
       ]
     },
     "5002031001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10312,7 +13081,7 @@
       ]
     },
     "5001001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10348,14 +13117,6 @@
         },
         {
           "category": "MN",
-          "material": "15083419",
-          "description": "DAMPER, FLUE;CAST DISK FOR BUTTERFLY",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "C206923.10.20"
-        },
-        {
-          "category": "MN",
           "material": "15102535",
           "description": "BOARD:CALCIUM SILICATE;KALSIBOARD;9MM",
           "qty": 20,
@@ -10364,21 +13125,8 @@
         }
       ]
     },
-    "5301001001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4512695960_10",
-          "description": "REFRACTORY BRICK, 4 1/2 x 3 x 14, SIL",
-          "qty": 168,
-          "uom": "EA",
-          "wbs": "C200425.10.10.20"
-        }
-      ]
-    },
     "5001002011": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "PO",
@@ -10406,42 +13154,8 @@
         }
       ]
     },
-    "5409005001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "PO",
-          "material": "4513270473_10",
-          "description": "Aluminium composite panel - color Dark G",
-          "qty": 27,
-          "uom": "PC",
-          "wbs": "C200620.10.10.1000"
-        }
-      ]
-    },
-    "5181015001": {
-      "lastUpdate": "03Oct2026",
-      "materials": [
-        {
-          "category": "MN",
-          "material": "13393223",
-          "description": "ELECTRICAL LUMINAIRE; CEILING 45W",
-          "qty": 3,
-          "uom": "EA",
-          "wbs": "C300123.20.10.1000"
-        },
-        {
-          "category": "MN",
-          "material": "13393223",
-          "description": "ELECTRICAL LUMINAIRE; CEILING 45W",
-          "qty": 1,
-          "uom": "EA",
-          "wbs": "X202002.PR.BU.FLDI"
-        }
-      ]
-    },
     "5604005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10454,7 +13168,7 @@
       ]
     },
     "5156001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10523,7 +13237,7 @@
       ]
     },
     "5118008011": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10535,8 +13249,21 @@
         }
       ]
     },
+    "5181008021": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "MN",
+          "material": "15107937",
+          "description": "BUSHING, ELECTRICAL CONDUIT;1/2IN;",
+          "qty": 30,
+          "uom": "EA",
+          "wbs": "C200723.10"
+        }
+      ]
+    },
     "5002041001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10549,15 +13276,23 @@
       ]
     },
     "5612001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
           "material": "15117508",
           "description": "SHEET, METAL;1/8IN THK; 4FT W; 8FT LG;",
-          "qty": 16,
+          "qty": 11,
           "uom": "PC",
-          "wbs": "C200225.30.40"
+          "wbs": "C200127.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15117508",
+          "description": "SHEET, METAL;1/8IN THK; 4FT W; 8FT LG;",
+          "qty": 1,
+          "uom": "PC",
+          "wbs": "C103125.10.20"
         },
         {
           "category": "MN",
@@ -10565,7 +13300,7 @@
           "description": "PLATE:MTL;12.7X1524X3048MM;G3101-SS400",
           "qty": 4,
           "uom": "PC",
-          "wbs": "C200225.30.71"
+          "wbs": "C102124.20.10"
         },
         {
           "category": "MN",
@@ -10578,23 +13313,15 @@
       ]
     },
     "5606005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
           "material": "15117574",
           "description": "ANGLE:STRUCTURAL;EQUAL;100X100X10MM;6M",
-          "qty": 25,
+          "qty": 11,
           "uom": "EA",
           "wbs": "C200225.30.80"
-        },
-        {
-          "category": "MN",
-          "material": "15117574",
-          "description": "ANGLE:STRUCTURAL;EQUAL;100X100X10MM;6M",
-          "qty": 9,
-          "uom": "EA",
-          "wbs": "C500221.10.10"
         },
         {
           "category": "MN",
@@ -10608,25 +13335,9 @@
           "category": "MN",
           "material": "15117574",
           "description": "ANGLE:STRUCTURAL;EQUAL;100X100X10MM;6M",
-          "qty": 1,
+          "qty": 9,
           "uom": "EA",
-          "wbs": "C200225.30.81"
-        },
-        {
-          "category": "MN",
-          "material": "15117574",
-          "description": "ANGLE:STRUCTURAL;EQUAL;100X100X10MM;6M",
-          "qty": 3,
-          "uom": "EA",
-          "wbs": "C200225.30.91"
-        },
-        {
-          "category": "MN",
-          "material": "15117651",
-          "description": "PLATE:MTL;16X1524X3048MM;G3101-SS400",
-          "qty": 16,
-          "uom": "PC",
-          "wbs": "C200225.30.80"
+          "wbs": "C500221.10.10"
         },
         {
           "category": "MN",
@@ -10635,6 +13346,14 @@
           "qty": 1,
           "uom": "PC",
           "wbs": "C201921.10.10"
+        },
+        {
+          "category": "MN",
+          "material": "15117651",
+          "description": "PLATE:MTL;16X1524X3048MM;G3101-SS400",
+          "qty": 16,
+          "uom": "PC",
+          "wbs": "C200225.30.80"
         },
         {
           "category": "MN",
@@ -10647,16 +13366,8 @@
       ]
     },
     "5612004001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
-        {
-          "category": "MN",
-          "material": "15117648",
-          "description": "PLATE:MTL;8X1524X3048MM;G3101-SS400",
-          "qty": 20,
-          "uom": "PC",
-          "wbs": "C202019.10.10.2000"
-        },
         {
           "category": "MN",
           "material": "15117648",
@@ -10669,6 +13380,14 @@
           "category": "MN",
           "material": "15117648",
           "description": "PLATE:MTL;8X1524X3048MM;G3101-SS400",
+          "qty": 20,
+          "uom": "PC",
+          "wbs": "C202019.10.10.2000"
+        },
+        {
+          "category": "MN",
+          "material": "15117648",
+          "description": "PLATE:MTL;8X1524X3048MM;G3101-SS400",
           "qty": 1,
           "uom": "PC",
           "wbs": "C200225.30.60"
@@ -10676,16 +13395,8 @@
       ]
     },
     "5606006001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
-        {
-          "category": "MN",
-          "material": "15117651",
-          "description": "PLATE:MTL;16X1524X3048MM;G3101-SS400",
-          "qty": 3,
-          "uom": "PC",
-          "wbs": "C200225.30.80"
-        },
         {
           "category": "MN",
           "material": "15117651",
@@ -10712,6 +13423,14 @@
         },
         {
           "category": "MN",
+          "material": "15117651",
+          "description": "PLATE:MTL;16X1524X3048MM;G3101-SS400",
+          "qty": 3,
+          "uom": "PC",
+          "wbs": "C200225.30.80"
+        },
+        {
+          "category": "MN",
           "material": "15083536",
           "description": "PIPE, METALLIC;STANDARD; 10IN ID; 20FT",
           "qty": 10,
@@ -10721,7 +13440,7 @@
       ]
     },
     "5608006001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10734,7 +13453,7 @@
       ]
     },
     "5604004001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10747,7 +13466,7 @@
       ]
     },
     "5610002001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10768,16 +13487,8 @@
       ]
     },
     "5610005001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
-        {
-          "category": "MN",
-          "material": "15083554",
-          "description": "PIPE, METALLIC;SEAMLESS; 1-1/2IN ID;20FT",
-          "qty": 96,
-          "uom": "EA",
-          "wbs": "C200225.30.20"
-        },
         {
           "category": "MN",
           "material": "15083554",
@@ -10785,6 +13496,14 @@
           "qty": 226,
           "uom": "EA",
           "wbs": "C200225.30.91"
+        },
+        {
+          "category": "MN",
+          "material": "15083554",
+          "description": "PIPE, METALLIC;SEAMLESS; 1-1/2IN ID;20FT",
+          "qty": 87,
+          "uom": "EA",
+          "wbs": "C200225.30.20"
         },
         {
           "category": "MN",
@@ -10797,7 +13516,7 @@
       ]
     },
     "5601025001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10826,7 +13545,7 @@
       ]
     },
     "5609006001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "MN",
@@ -10847,7 +13566,7 @@
       ]
     },
     "5152001001": {
-      "lastUpdate": "03Oct2026",
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "N/A",
@@ -10971,24 +13690,85 @@
         }
       ]
     },
-    "5148001001": {
-      "lastUpdate": "03Oct2026",
+    "5157001001": {
+      "lastUpdate": "20Oct2026",
       "materials": [
         {
           "category": "N/A",
-          "material": "15086635",
-          "description": "REDUCER, PIPE;CONCENTRIC; BUTT WELD;",
-          "qty": 7,
+          "material": "4508827373_40",
+          "description": "Supply of off-grid solar PV for EAST D3",
+          "qty": 8,
+          "uom": "CRT",
+          "wbs": "C100721.40.10"
+        }
+      ]
+    },
+    "5131001001": {
+      "lastUpdate": "20Oct2026",
+      "materials": [
+        {
+          "category": "N/A",
+          "material": "4505632454_70",
+          "description": "solar sistem (solar 10wp, solar regulato",
+          "qty": 1,
           "uom": "EA",
-          "wbs": "X888888"
+          "wbs": "SIDB100919.10.70.1000"
         },
         {
           "category": "N/A",
-          "material": "15086670",
-          "description": "TEE, PIPE;8IN; EQUAL; BUTT WELD; STD;",
-          "qty": 2,
+          "material": "4505632454_40",
+          "description": "Pressure transducer",
+          "qty": 1,
           "uom": "EA",
-          "wbs": "SIDB300415.01.02.0001"
+          "wbs": "SIDB100919.10.70.1000"
+        },
+        {
+          "category": "N/A",
+          "material": "4505632454_80",
+          "description": "Rain collector with 0.2mm tip resolution",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "SIDB100919.10.70.1000"
+        },
+        {
+          "category": "N/A",
+          "material": "4504513956_10",
+          "description": "Caterpillar Monitoring Scoreboard P/N (3",
+          "qty": 3,
+          "uom": "BOX",
+          "wbs": "SIDB300418.10.10.0001"
+        },
+        {
+          "category": "N/A",
+          "material": "4504640859_20",
+          "description": "PI CONNECTOR BOLTED TYPE (FIXED)AL TUBE",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "SIDB300315.20.10"
+        },
+        {
+          "category": "N/A",
+          "material": "4504640859_30",
+          "description": "TEE CONNECTOR BOLTED TYPEAL TUBE 4\" IPSP",
+          "qty": 1,
+          "uom": "CRT",
+          "wbs": "SIDB300315.20.10"
+        },
+        {
+          "category": "N/A",
+          "material": "4502365645_10",
+          "description": "witdrawble ACB 800 A, 3 pole 80 kA",
+          "qty": 4,
+          "uom": "CRT",
+          "wbs": "SIDB303013.10.10.1000"
+        },
+        {
+          "category": "N/A",
+          "material": "4510768340_20",
+          "description": "TAHU MURRAY ASSEMBLY, SIFCA PLUS",
+          "qty": 1,
+          "uom": "EA",
+          "wbs": "C200624.10.10"
         }
       ]
     }
