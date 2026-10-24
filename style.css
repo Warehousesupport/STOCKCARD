@@ -15,3 +15,88 @@ table{width:100%;border-collapse:collapse;border-spacing:0}thead th{padding:5px 
 .footer{display:flex;flex-direction:column;gap:3px;margin-top:24px;padding:8px 0 0;border-top:1px solid var(--line);color:#77838d;font-size:11px}.footer span:first-child{font-weight:900;letter-spacing:.2px;color:var(--navy)}.footer b{padding:0 4px;color:var(--bright)}
 .error{margin-top:24px;padding:28px 20px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:4px}.error-symbol{width:42px;height:42px;margin:0 auto 12px;display:grid;place-items:center;color:#fff;background:var(--bright);border-radius:50%;font-size:22px;font-weight:800}.error h2{margin:0;color:var(--navy);font-size:20px}.error p{margin:7px 0 0;color:var(--muted);font-size:13px}
 @media(max-width:600px){.container{padding:0 6px 12px}.header{grid-template-columns:76px 1fr 76px;gap:6px;min-height:62px}.brand{height:38px}.brand img{max-height:36px;max-width:100%}.header-center h1{font-size:clamp(15px,4vw,22px)}.header-center p{font-size:10px;margin-top:5px}.section-heading h2,.update-label{font-size:12px}.update-chip{min-width:0;padding:4px}.update-chip strong{font-size:11px}.info-card span{font-size:12px}.info-card strong{font-size:12px}table{min-width:620px}thead th{font-size:12px}tbody td{font-size:11px;padding:6px 4px}}
+/* Tambahkan di bagian paling bawah style.css */
+header.header {
+  display: grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  align-items: center;
+  gap: 12px;
+  padding: 16px 20px;
+  background: #ffffff;
+  box-sizing: border-box;
+}
+
+header.header .mind-brand {
+  grid-column: 1;
+  justify-self: start;
+}
+
+header.header .header-center {
+  grid-column: 2;
+  text-align: center;
+}
+
+header.header .vale-brand {
+  grid-column: 3;
+  justify-self: end;
+}
+
+header.header .brand {
+  display: flex;
+  align-items: center;
+  min-width: 0;
+}
+
+header.header .brand img {
+  display: block;
+  width: 125px;
+  max-width: 100%;
+  max-height: 55px;
+  height: auto;
+  object-fit: contain;
+  background: #ffffff;
+}
+
+header.header .header-center h1 {
+  margin: 0;
+  color: #1A365F;
+  font-weight: 800;
+}
+
+header.header .header-center p {
+  margin: 5px 0 0;
+  color: #3cb5e5;
+  font-weight: 700;
+}
+
+@media (max-width: 600px) {
+  header.header {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+    padding: 12px;
+  }
+
+  header.header .mind-brand {
+    grid-column: 1;
+    grid-row: 1;
+  }
+
+  header.header .vale-brand {
+    grid-column: 2;
+    grid-row: 1;
+  }
+
+  header.header .header-center {
+    grid-column: 1 / -1;
+    grid-row: 2;
+  }
+
+  header.header .brand img {
+    width: 100px;
+    max-height: 45px;
+  }
+
+  header.header .header-center h1 {
+    font-size: 22px;
+  }
+}
