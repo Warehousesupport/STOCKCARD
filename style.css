@@ -71,3 +71,157 @@ table{width:100%;border-collapse:collapse;border-spacing:0}thead th{padding:5px 
 .footer{display:flex;flex-direction:column;gap:3px;margin-top:24px;padding:8px 0 0;border-top:1px solid var(--line);color:#77838d;font-size:11px}.footer span:first-child{font-weight:900;letter-spacing:.2px;color:var(--navy)}.footer b{padding:0 4px;color:var(--bright)}
 .error{margin-top:24px;padding:28px 20px;text-align:center;background:#fff;border:1px solid var(--line);border-radius:4px}.error-symbol{width:42px;height:42px;margin:0 auto 12px;display:grid;place-items:center;color:#fff;background:var(--bright);border-radius:50%;font-size:22px;font-weight:800}.error h2{margin:0;color:var(--navy);font-size:20px}.error p{margin:7px 0 0;color:var(--muted);font-size:13px}
 @media(max-width:600px){.container{padding:0 6px 12px}.header{grid-template-columns:76px 1fr 76px;gap:6px;min-height:62px}.brand{height:38px}.brand img{max-height:36px;max-width:100%}.header-center h1{font-size:clamp(15px,4vw,22px)}.header-center p{font-size:10px;margin-top:5px}.section-heading h2,.update-label{font-size:12px}.update-chip{min-width:0;padding:4px}.update-chip strong{font-size:11px}.info-card span{font-size:12px}.info-card strong{font-size:12px}table{min-width:620px}thead th{font-size:12px}tbody td{font-size:11px;padding:6px 4px}}
+
+/* STOCK CARD LAYOUT FIX */
+#stockCard {
+    width: 100%;
+    margin: 0 auto;
+}
+
+.stock-info {
+    display: grid;
+    grid-template-columns: 1fr 190px;
+    align-items: end;
+    gap: 16px;
+    margin: 24px 0 20px;
+}
+
+.bin-panel,
+.update-panel {
+    display: flex;
+    flex-direction: column;
+    min-width: 0;
+}
+
+.field-label {
+    color: #1A365F;
+    font-size: 14px;
+    font-weight: 800;
+    margin-bottom: 5px;
+}
+
+.bin-panel strong,
+.update-panel strong {
+    display: block;
+    padding: 9px 12px;
+    background: #3cb5e5;
+    color: #fff;
+    font-size: 16px;
+    font-weight: 800;
+    overflow-wrap: anywhere;
+}
+
+.update-panel strong {
+    text-align: center;
+}
+
+.table-heading {
+    display: flex;
+    justify-content: space-between;
+    align-items: end;
+    gap: 12px;
+    margin: 0 0 8px;
+}
+
+.table-heading h3 {
+    margin: 0;
+    color: #1A365F;
+    font-size: 18px;
+    font-weight: 800;
+}
+
+.table-heading p {
+    margin: 3px 0 0;
+    color: #687887;
+    font-size: 12px;
+}
+
+.table-mark {
+    color: #1A365F;
+    font-size: 12px;
+    font-weight: 800;
+}
+
+.table-container {
+    width: 100%;
+    overflow-x: auto;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    table-layout: auto;
+}
+
+thead th {
+    background: #1A365F;
+    color: #fff;
+    padding: 9px 8px;
+    text-align: left;
+    border: 1px solid #1A365F;
+}
+
+tbody td {
+    padding: 9px 8px;
+    border: 1px solid #d9dfe5;
+    vertical-align: top;
+    overflow-wrap: anywhere;
+}
+
+thead th:first-child,
+tbody td:first-child {
+    width: 48px;
+    text-align: center;
+}
+
+thead th:nth-child(2),
+tbody td:nth-child(2) {
+    width: 90px;
+}
+
+thead th:nth-child(3),
+tbody td:nth-child(3) {
+    width: 150px;
+}
+
+thead th:nth-child(5),
+tbody td:nth-child(5) {
+    width: 70px;
+    text-align: center;
+}
+
+thead th:nth-child(6),
+tbody td:nth-child(6) {
+    width: 65px;
+    text-align: center;
+}
+
+@media (max-width: 600px) {
+    .stock-info {
+        grid-template-columns: minmax(0, 1fr) 125px;
+        gap: 8px;
+        margin-top: 18px;
+    }
+
+    .field-label {
+        font-size: 11px;
+    }
+
+    .bin-panel strong,
+    .update-panel strong {
+        padding: 8px 6px;
+        font-size: 12px;
+    }
+
+    .table-heading h3 {
+        font-size: 15px;
+    }
+
+    .table-mark {
+        font-size: 10px;
+    }
+
+    table {
+        min-width: 650px;
+    }
+}
